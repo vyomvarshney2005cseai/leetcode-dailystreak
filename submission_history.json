@@ -1,0 +1,538 @@
+[
+  {
+    "id": "2052171148",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1782898328000,
+    "title": "Count Digit Appearances",
+    "titleSlug": "count-digit-appearances"
+  },
+  {
+    "id": "2051535071",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1782841890000,
+    "title": "Smallest Even Multiple",
+    "titleSlug": "smallest-even-multiple"
+  },
+  {
+    "id": "2050324959",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1782752349000,
+    "title": "Add Two Integers",
+    "titleSlug": "add-two-integers"
+  },
+  {
+    "id": "2049951482",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1782730051000,
+    "title": "Concatenation of Array",
+    "titleSlug": "concatenation-of-array"
+  },
+  {
+    "id": "2049213183",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1782668443000,
+    "title": "Find Closest Person",
+    "titleSlug": "find-closest-person"
+  },
+  {
+    "id": "2047992184",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1782574856000,
+    "title": "Mirror Distance of an Integer",
+    "titleSlug": "mirror-distance-of-an-integer"
+  },
+  {
+    "id": "2047972788",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1782573527000,
+    "title": "Check if the Sentence Is Pangram",
+    "titleSlug": "check-if-the-sentence-is-pangram"
+  },
+  {
+    "id": "2047960898",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1782572690000,
+    "title": "Maximum Number of Words Found in Sentences",
+    "titleSlug": "maximum-number-of-words-found-in-sentences"
+  },
+  {
+    "id": "2046944930",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1782486574000,
+    "title": "Digit Frequency Score",
+    "titleSlug": "digit-frequency-score"
+  },
+  {
+    "id": "2046098420",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1782410731000,
+    "title": "Roman to Integer",
+    "titleSlug": "roman-to-integer"
+  },
+  {
+    "id": "2044901935",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1782321889000,
+    "title": "Convert the Temperature",
+    "titleSlug": "convert-the-temperature"
+  },
+  {
+    "id": "2042765247",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1782181302000,
+    "title": "Check if a String Is an Acronym of Words",
+    "titleSlug": "check-if-a-string-is-an-acronym-of-words"
+  },
+  {
+    "id": "2042099453",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1782127728000,
+    "title": "Jewels and Stones",
+    "titleSlug": "jewels-and-stones"
+  },
+  {
+    "id": "2042032920",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1782123906000,
+    "title": "Longest Substring Without Repeating Characters",
+    "titleSlug": "longest-substring-without-repeating-characters"
+  },
+  {
+    "id": "2041537020",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1782097847000,
+    "title": "Design HashMap",
+    "titleSlug": "design-hashmap"
+  },
+  {
+    "id": "2041536603",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1782097805000,
+    "title": "Design HashMap",
+    "titleSlug": "design-hashmap"
+  },
+  {
+    "id": "2041536344",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1782097778000,
+    "title": "Design HashMap",
+    "titleSlug": "design-hashmap"
+  },
+  {
+    "id": "2040826993",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1782034773000,
+    "title": "Find Words Containing Character",
+    "titleSlug": "find-words-containing-character"
+  },
+  {
+    "id": "2039699881",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1781954716000,
+    "title": "Longest Substring Without Repeating Characters",
+    "titleSlug": "longest-substring-without-repeating-characters"
+  },
+  {
+    "id": "2039696958",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1781954501000,
+    "title": "Longest Substring Without Repeating Characters",
+    "titleSlug": "longest-substring-without-repeating-characters"
+  },
+  {
+    "id": "2039653405",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1781951435000,
+    "title": "Longest Substring Without Repeating Characters",
+    "titleSlug": "longest-substring-without-repeating-characters"
+  },
+  {
+    "id": "2039334346",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1781931056000,
+    "title": "Third Maximum Number",
+    "titleSlug": "third-maximum-number"
+  },
+  {
+    "id": "2038638828",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1781865879000,
+    "title": "Design HashSet",
+    "titleSlug": "design-hashset"
+  },
+  {
+    "id": "2038615831",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1781864537000,
+    "title": "Count Primes",
+    "titleSlug": "count-primes"
+  },
+  {
+    "id": "2038129969",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1781835519000,
+    "title": "Design HashSet",
+    "titleSlug": "design-hashset"
+  },
+  {
+    "id": "2038129288",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1781835414000,
+    "title": "Design HashSet",
+    "titleSlug": "design-hashset"
+  },
+  {
+    "id": "2038128780",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1781835338000,
+    "title": "Design HashSet",
+    "titleSlug": "design-hashset"
+  },
+  {
+    "id": "2038128492",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1781835295000,
+    "title": "Design HashSet",
+    "titleSlug": "design-hashset"
+  },
+  {
+    "id": "2037595158",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1781788328000,
+    "title": "Second Largest Digit in a String",
+    "titleSlug": "second-largest-digit-in-a-string"
+  },
+  {
+    "id": "2037591150",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1781788064000,
+    "title": "Second Largest Digit in a String",
+    "titleSlug": "second-largest-digit-in-a-string"
+  },
+  {
+    "id": "2037372255",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1781774723000,
+    "title": "Count Asterisks",
+    "titleSlug": "count-asterisks"
+  },
+  {
+    "id": "2036962120",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1781751168000,
+    "title": "Remove Element",
+    "titleSlug": "remove-element"
+  },
+  {
+    "id": "2036630934",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1781714970000,
+    "title": "Count Commas in Range",
+    "titleSlug": "count-commas-in-range"
+  },
+  {
+    "id": "2035085400",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1781608869000,
+    "title": "Group Anagrams",
+    "titleSlug": "group-anagrams"
+  },
+  {
+    "id": "2034809631",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1781593500000,
+    "title": "Group Anagrams",
+    "titleSlug": "group-anagrams"
+  },
+  {
+    "id": "2034808126",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1781593429000,
+    "title": "Group Anagrams",
+    "titleSlug": "group-anagrams"
+  },
+  {
+    "id": "2034776075",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1781591990000,
+    "title": "Two Sum",
+    "titleSlug": "two-sum"
+  },
+  {
+    "id": "2033351022",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1781492509000,
+    "title": "Majority Element",
+    "titleSlug": "majority-element"
+  },
+  {
+    "id": "2032760710",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1781436932000,
+    "title": "Longest Common Prefix",
+    "titleSlug": "longest-common-prefix"
+  },
+  {
+    "id": "2032346053",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1781407388000,
+    "title": "Check Good Integer",
+    "titleSlug": "check-good-integer"
+  },
+  {
+    "id": "2031404713",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1781329277000,
+    "title": "Two Sum",
+    "titleSlug": "two-sum"
+  },
+  {
+    "id": "2030524777",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1781248594000,
+    "title": "Valid Anagram",
+    "titleSlug": "valid-anagram"
+  },
+  {
+    "id": "2029190127",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1781146208000,
+    "title": "Concatenation of Array",
+    "titleSlug": "concatenation-of-array"
+  },
+  {
+    "id": "2028390463",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1781079533000,
+    "title": "Product of Array Except Self",
+    "titleSlug": "product-of-array-except-self"
+  },
+  {
+    "id": "2028080185",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1781059760000,
+    "title": "Maximum Total Subarray Value II",
+    "titleSlug": "maximum-total-subarray-value-ii"
+  },
+  {
+    "id": "2028071902",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1781058652000,
+    "title": "Contains Duplicate",
+    "titleSlug": "contains-duplicate"
+  },
+  {
+    "id": "2026940823",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1780973604000,
+    "title": "Minimum Number Game",
+    "titleSlug": "minimum-number-game"
+  },
+  {
+    "id": "1948958487",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1773568715000,
+    "title": "Count Commas in Range II",
+    "titleSlug": "count-commas-in-range-ii"
+  },
+  {
+    "id": "1871815292",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1767342588000,
+    "title": "To Lower Case",
+    "titleSlug": "to-lower-case"
+  },
+  {
+    "id": "1866356062",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1766814261000,
+    "title": "Add Digits",
+    "titleSlug": "add-digits"
+  },
+  {
+    "id": "1866126442",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1766779060000,
+    "title": "Type of Triangle",
+    "titleSlug": "type-of-triangle"
+  },
+  {
+    "id": "1866108305",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1766776965000,
+    "title": "Final Value of Variable After Performing Operations",
+    "titleSlug": "final-value-of-variable-after-performing-operations"
+  },
+  {
+    "id": "1866097117",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1766775774000,
+    "title": "Find Minimum Operations to Make All Elements Divisible by Three",
+    "titleSlug": "find-minimum-operations-to-make-all-elements-divisible-by-three"
+  },
+  {
+    "id": "1866092381",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1766775290000,
+    "title": "Minimum Operations to Make Array Sum Divisible by K",
+    "titleSlug": "minimum-operations-to-make-array-sum-divisible-by-k"
+  },
+  {
+    "id": "1864689138",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1766640883000,
+    "title": "Difference Between Element Sum and Digit Sum of an Array",
+    "titleSlug": "difference-between-element-sum-and-digit-sum-of-an-array"
+  },
+  {
+    "id": "1864688864",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1766640859000,
+    "title": "Difference Between Element Sum and Digit Sum of an Array",
+    "titleSlug": "difference-between-element-sum-and-digit-sum-of-an-array"
+  },
+  {
+    "id": "1864661233",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1766638298000,
+    "title": "Sum Multiples",
+    "titleSlug": "sum-multiples"
+  },
+  {
+    "id": "1864656632",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1766637811000,
+    "title": "Count the Digits That Divide a Number",
+    "titleSlug": "count-the-digits-that-divide-a-number"
+  },
+  {
+    "id": "1864417372",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1766599687000,
+    "title": "Subtract the Product and Sum of Digits of an Integer",
+    "titleSlug": "subtract-the-product-and-sum-of-digits-of-an-integer"
+  },
+  {
+    "id": "1864416409",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1766599614000,
+    "title": "Subtract the Product and Sum of Digits of an Integer",
+    "titleSlug": "subtract-the-product-and-sum-of-digits-of-an-integer"
+  },
+  {
+    "id": "1864402701",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1766598572000,
+    "title": "XOR Operation in an Array",
+    "titleSlug": "xor-operation-in-an-array"
+  },
+  {
+    "id": "1864333930",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1766593459000,
+    "title": "Number of Employees Who Met the Target",
+    "titleSlug": "number-of-employees-who-met-the-target"
+  },
+  {
+    "id": "1864309618",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1766591470000,
+    "title": "Richest Customer Wealth",
+    "titleSlug": "richest-customer-wealth"
+  },
+  {
+    "id": "1861003581",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1766265060000,
+    "title": "Divisible and Non-divisible Sums Difference",
+    "titleSlug": "divisible-and-non-divisible-sums-difference"
+  },
+  {
+    "id": "1860991528",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1766263149000,
+    "title": "Find the Maximum Achievable Number",
+    "titleSlug": "find-the-maximum-achievable-number"
+  },
+  {
+    "id": "1824467748",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1762632741000,
+    "title": "Palindrome Number",
+    "titleSlug": "palindrome-number"
+  },
+  {
+    "id": "1824466394",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1762632585000,
+    "title": "Palindrome Number",
+    "titleSlug": "palindrome-number"
+  }
+]

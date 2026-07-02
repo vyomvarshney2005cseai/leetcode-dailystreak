@@ -4,7 +4,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-50_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
-  <img src="https://img.shields.io/badge/Codeforces-0_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
+  <img src="https://img.shields.io/badge/Codeforces-1_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
 </p>
@@ -14,16 +14,16 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
 | **LeetCode** | 50 | [ `/LeetCode`](./LeetCode) |
-| **Codeforces** | 0 | [ `/Codeforces`](./Codeforces) |
+| **Codeforces** | 1 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **50** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **51** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
 | Rating Bracket | Problems Solved |
 | :--- | :---: |
-| **<= 900** | 0 |
+| **<= 900** | 1 |
 | **1000 - 1100** | 0 |
 | **1200 - 1300** | 0 |
 | **1400 - 1500** | 0 |
@@ -112,5 +112,6 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Two Sum](https://leetcode.com/problems/two-sum/) | c | [View Solution](./LeetCode/Easy/1-two-sum) |
 | LeetCode | [Type of Triangle](https://leetcode.com/problems/type-of-triangle/) | c | [View Solution](./LeetCode/Easy/3024-type-of-triangle) |
 | LeetCode | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | c | [View Solution](./LeetCode/Easy/242-valid-anagram) |
+| Codeforces | [Watermelon](https://codeforces.com/contest/4/problem/A) | GNU C11 | [View Solution](./Codeforces/4/A) |
 | LeetCode | [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/) | c | [View Solution](./LeetCode/Unknown/xor-operation-in-an-array) |
 

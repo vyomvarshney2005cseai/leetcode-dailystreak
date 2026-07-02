@@ -1,0 +1,106 @@
+{
+  "auto_refresh": true,
+  "darkMode": true,
+  "own_codechef_handle": "vyom_1234",
+  "own_codeforces_handle": "vyomvarshney2005",
+  "own_username": "1csgj2myim",
+  "sync_history": [
+    {
+      "problems": [],
+      "problemsSynced": 0,
+      "status": "success",
+      "timestamp": 1783003650287
+    },
+    {
+      "problems": [
+        "Group Anagrams"
+      ],
+      "problemsSynced": 1,
+      "status": "success",
+      "timestamp": 1783003605817
+    },
+    {
+      "problems": [
+        "Final Value of Variable After Performing Operations"
+      ],
+      "problemsSynced": 1,
+      "status": "success",
+      "timestamp": 1783003527368
+    },
+    {
+      "problems": [
+        "Longest Substring Without Repeating Characters"
+      ],
+      "problemsSynced": 1,
+      "status": "success",
+      "timestamp": 1783003337273
+    },
+    {
+      "problems": [
+        "Design HashSet",
+        "Longest Common Prefix"
+      ],
+      "problemsSynced": 2,
+      "status": "success",
+      "timestamp": 1783003295840
+    },
+    {
+      "problems": [
+        "Check if the Sentence Is Pangram",
+        "Remove Element",
+        "Minimum Operations to Make Array Sum Divisible by K"
+      ],
+      "problemsSynced": 3,
+      "status": "success",
+      "timestamp": 1783003260303
+    },
+    {
+      "problems": [
+        "Longest Substring Without Repeating Characters",
+        "Design HashSet",
+        "Valid Anagram",
+        "To Lower Case",
+        "Divisible and Non-divisible Sums Difference"
+      ],
+      "problemsSynced": 5,
+      "status": "success",
+      "timestamp": 1783003221457
+    },
+    {
+      "problems": [
+        "Mirror Distance of an Integer",
+        "Add Two Integers",
+        "Jewels and Stones",
+        "Design HashSet",
+        "Group Anagrams"
+      ],
+      "problemsSynced": 8,
+      "status": "success",
+      "timestamp": 1783003097894
+    },
+    {
+      "problems": [
+        "Find Closest Person",
+        "Roman to Integer",
+        "Design HashMap",
+        "Longest Substring Without Repeating Characters",
+        "Design HashSet"
+      ],
+      "problemsSynced": 11,
+      "status": "success",
+      "timestamp": 1783002347478
+    },
+    {
+      "problems": [
+        "Smallest Even Multiple",
+        "Count Digit Appearances",
+        "Concatenation of Array",
+        "Maximum Number of Words Found in Sentences",
+        "Digit Frequency Score"
+      ],
+      "problemsSynced": 35,
+      "status": "success",
+      "timestamp": 1783002267837
+    }
+  ]
+}

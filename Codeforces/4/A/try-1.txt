@@ -1,0 +1,22 @@
+/*
+ * Problem : Watermelon
+ * Difficulty: Easy
+ * Submission: Try 1
+ * status: Accepted
+ * Language: GNU C11
+ * Date: 2/2/2026, 12:05:38 PM
+ * Link: https://codeforces.com/contest/4/problem/A
+ */
+
+#include <stdio.h>
+int main(){
+    int n;
+    scanf("%d",&n);
+    if(n%2==0 && n>2){
+        printf("YES");
+
+    }
+    else{
+        printf("NO");
+    }
+}

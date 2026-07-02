@@ -52,6 +52,7 @@ A complete history of all accepted submissions synced by L'Amigo.
 | 2026-06-10 | Leetcode | Contains Duplicate | c |
 | 2026-06-09 | Leetcode | Minimum Number Game | c |
 | 2026-03-15 | Leetcode | Count Commas in Range II | c |
+| 2026-02-02 | Codeforces | Watermelon | GNU C11 |
 | 2026-01-02 | Leetcode | To Lower Case | c |
 | 2025-12-27 | Leetcode | Add Digits | c |
 | 2025-12-26 | Leetcode | Type of Triangle | c |

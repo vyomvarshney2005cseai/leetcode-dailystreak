@@ -4,6 +4,7 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-07-03 | Leetcode | Next Greater Element II | c |
 | 2026-07-02 | Leetcode | Maximum Subarray | c |
 | 2026-07-01 | Leetcode | Count Digit Appearances | c |
 | 2026-06-30 | Leetcode | Smallest Even Multiple | c |

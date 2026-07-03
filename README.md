@@ -3,7 +3,7 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-51_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-52_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Codeforces-1_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 51 | [ `/LeetCode`](./LeetCode) |
+| **LeetCode** | 52 | [ `/LeetCode`](./LeetCode) |
 | **Codeforces** | 1 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **52** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **53** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -39,24 +39,24 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Difficulty | Solved | Progress Bar |
 | :--- | :---: | :--- |
-| **Easy** | 43 | `[█████████░]` (86.0%) |
-| **Medium** | 6 | `[█░░░░░░░░░]` (12.0%) |
-| **Hard** | 1 | `[░░░░░░░░░░]` (2.0%) |
+| **Easy** | 43 | `[████████░░]` (82.7%) |
+| **Medium** | 8 | `[██░░░░░░░░]` (15.4%) |
+| **Hard** | 1 | `[░░░░░░░░░░]` (1.9%) |
 
 ## Top LeetCode Topics
 
 | Topic | Solved |
 | :--- | :--- |
-| Array | 25 |
+| Array | 27 |
 | Math | 23 |
 | String | 14 |
 | Hash Table | 13 |
 | Sorting | 7 |
 | Simulation | 4 |
+| Divide and Conquer | 2 |
 | Design | 2 |
 | Linked List | 2 |
-| Divide and Conquer | 1 |
-| Trie | 1 |
+| Dynamic Programming | 1 |
 
 
 ## Synced Solutions Index
@@ -98,6 +98,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Minimum Number Game](https://leetcode.com/problems/minimum-number-game/) | c | [View Solution](./LeetCode/Unknown/minimum-number-game) |
 | LeetCode | [Minimum Operations to Make Array Sum Divisible by K](https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/) | c | [View Solution](./LeetCode/Easy/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | LeetCode | [Mirror Distance of an Integer](https://leetcode.com/problems/mirror-distance-of-an-integer/) | c | [View Solution](./LeetCode/Easy/3783-mirror-distance-of-an-integer) |
+| LeetCode | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | c | [View Solution](./LeetCode/Medium/503-next-greater-element-ii) |
 | LeetCode | [Number of Employees Who Met the Target](https://leetcode.com/problems/number-of-employees-who-met-the-target/) | c | [View Solution](./LeetCode/Easy/2798-number-of-employees-who-met-the-target) |
 | LeetCode | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | cpp | [View Solution](./LeetCode/Unknown/palindrome-number) |
 | LeetCode | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | c | [View Solution](./LeetCode/Medium/238-product-of-array-except-self) |

@@ -553,5 +553,13 @@
     "timestamp": 1762632585000,
     "title": "Palindrome Number",
     "titleSlug": "palindrome-number"
+  },
+  {
+    "id": "2054153037",
+    "title": "Next Greater Element II",
+    "titleSlug": "next-greater-element-ii",
+    "timestamp": 1783051699000,
+    "lang": "c",
+    "statusDisplay": "Accepted"
   }
 ]

@@ -3,7 +3,7 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-53_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-54_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Codeforces-1_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 53 | [ `/LeetCode`](./LeetCode) |
+| **LeetCode** | 54 | [ `/LeetCode`](./LeetCode) |
 | **Codeforces** | 1 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **54** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **55** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -39,24 +39,24 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Difficulty | Solved | Progress Bar |
 | :--- | :---: | :--- |
-| **Easy** | 43 | `[████████░░]` (82.7%) |
-| **Medium** | 8 | `[██░░░░░░░░]` (15.4%) |
+| **Easy** | 45 | `[████████░░]` (83.3%) |
+| **Medium** | 8 | `[█░░░░░░░░░]` (14.8%) |
 | **Hard** | 1 | `[░░░░░░░░░░]` (1.9%) |
 
 ## Top LeetCode Topics
 
 | Topic | Solved |
 | :--- | :--- |
-| Array | 27 |
+| Array | 29 |
 | Math | 23 |
+| Hash Table | 14 |
 | String | 14 |
-| Hash Table | 13 |
-| Sorting | 7 |
+| Sorting | 8 |
 | Simulation | 4 |
 | Divide and Conquer | 2 |
+| Monotonic Stack | 2 |
 | Design | 2 |
-| Linked List | 2 |
-| Dynamic Programming | 1 |
+| Stack | 2 |
 
 
 ## Synced Solutions Index
@@ -108,6 +108,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | c | [View Solution](./LeetCode/Easy/13-roman-to-integer) |
 | LeetCode | [Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string/) | c | [View Solution](./LeetCode/Easy/1796-second-largest-digit-in-a-string) |
 | LeetCode | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/) | c | [View Solution](./LeetCode/Unknown/smallest-even-multiple) |
+| LeetCode | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | c | [View Solution](./LeetCode/Medium/912-sort-an-array) |
 | LeetCode | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | c | [View Solution](./LeetCode/Easy/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | LeetCode | [Sum Multiples](https://leetcode.com/problems/sum-multiples/) | c | [View Solution](./LeetCode/Easy/2652-sum-multiples) |
 | LeetCode | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | c | [View Solution](./LeetCode/Unknown/third-maximum-number) |

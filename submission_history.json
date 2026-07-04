@@ -1,5 +1,13 @@
 [
   {
+    "id": "2055712361",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1783170154000,
+    "title": "First Unique Character in a String",
+    "titleSlug": "first-unique-character-in-a-string"
+  },
+  {
     "id": "2055701659",
     "lang": "c",
     "statusDisplay": "Accepted",
@@ -603,10 +611,10 @@
     "titleSlug": "palindrome-number"
   },
   {
-    "id": "2055712361",
+    "id": "2055715057",
     "title": "First Unique Character in a String",
     "titleSlug": "first-unique-character-in-a-string",
-    "timestamp": 1783170154000,
+    "timestamp": 1783170348000,
     "lang": "c",
     "statusDisplay": "Accepted"
   }

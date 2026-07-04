@@ -4,6 +4,8 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-07-04 | Leetcode | Is Subsequence | c |
+| 2026-07-04 | Leetcode | Elimination Game | c |
 | 2026-07-04 | Leetcode | First Unique Character in a String | c |
 | 2026-07-04 | Leetcode | First Unique Character in a String | c |
 | 2026-07-04 | Leetcode | Lexicographical Numbers | c |

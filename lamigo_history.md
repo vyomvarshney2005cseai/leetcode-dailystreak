@@ -4,6 +4,7 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-07-04 | Leetcode | Sort Colors | c |
 | 2026-07-04 | Leetcode | Sort an Array | c |
 | 2026-07-03 | Leetcode | Next Greater Element I | c |
 | 2026-07-03 | Leetcode | Next Greater Element II | c |

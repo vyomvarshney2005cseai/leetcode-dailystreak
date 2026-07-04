@@ -4,6 +4,7 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-07-04 | Leetcode | First Unique Character in a String | c |
 | 2026-07-04 | Leetcode | Lexicographical Numbers | c |
 | 2026-07-04 | Leetcode | Move Zeroes | c |
 | 2026-07-04 | Leetcode | Sort Colors | c |

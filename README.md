@@ -3,7 +3,7 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-58_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-60_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Codeforces-1_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 58 | [ `/LeetCode`](./LeetCode) |
+| **LeetCode** | 60 | [ `/LeetCode`](./LeetCode) |
 | **Codeforces** | 1 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **59** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **61** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -39,9 +39,9 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Difficulty | Solved | Progress Bar |
 | :--- | :---: | :--- |
-| **Easy** | 47 | `[████████░░]` (81.0%) |
-| **Medium** | 10 | `[██░░░░░░░░]` (17.2%) |
-| **Hard** | 1 | `[░░░░░░░░░░]` (1.7%) |
+| **Easy** | 49 | `[████████░░]` (80.3%) |
+| **Medium** | 11 | `[██░░░░░░░░]` (18.0%) |
+| **Hard** | 1 | `[░░░░░░░░░░]` (1.6%) |
 
 ## Top LeetCode Topics
 
@@ -49,14 +49,14 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | :--- | :--- |
 | Array | 33 |
 | Math | 23 |
-| Hash Table | 14 |
-| String | 14 |
-| Sorting | 10 |
+| Hash Table | 16 |
+| String | 16 |
+| Sorting | 11 |
 | Two Pointers | 5 |
 | Simulation | 4 |
 | Divide and Conquer | 3 |
+| Trie | 2 |
 | Monotonic Stack | 2 |
-| Design | 2 |
 
 
 ## Synced Solutions Index
@@ -82,6 +82,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/) | c | [View Solution](./LeetCode/Unknown/difference-between-element-sum-and-digit-sum-of-an-array) |
 | LeetCode | [Digit Frequency Score](https://leetcode.com/problems/digit-frequency-score/) | c | [View Solution](./LeetCode/Easy/3945-digit-frequency-score) |
 | LeetCode | [Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/) | c | [View Solution](./LeetCode/Easy/2894-divisible-and-non-divisible-sums-difference) |
+| LeetCode | [Elimination Game](https://leetcode.com/problems/elimination-game/) | c | [View Solution](./LeetCode/Unknown/elimination-game) |
 | LeetCode | [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/) | c | [View Solution](./LeetCode/Easy/2011-final-value-of-variable-after-performing-operations) |
 | LeetCode | [Find Closest Person](https://leetcode.com/problems/find-closest-person/) | c | [View Solution](./LeetCode/Easy/3516-find-closest-person) |
 | LeetCode | [Find Minimum Operations to Make All Elements Divisible by Three](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/) | c | [View Solution](./LeetCode/Unknown/find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -89,6 +90,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/) | c | [View Solution](./LeetCode/Easy/2942-find-words-containing-character) |
 | LeetCode | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | c | [View Solution](./LeetCode/Easy/387-first-unique-character-in-a-string) |
 | LeetCode | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | c | [View Solution](./LeetCode/Medium/49-group-anagrams) |
+| LeetCode | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | c | [View Solution](./LeetCode/Easy/392-is-subsequence) |
 | LeetCode | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | c | [View Solution](./LeetCode/Easy/771-jewels-and-stones) |
 | LeetCode | [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/) | c | [View Solution](./LeetCode/Medium/386-lexicographical-numbers) |
 | LeetCode | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | c | [View Solution](./LeetCode/Easy/14-longest-common-prefix) |

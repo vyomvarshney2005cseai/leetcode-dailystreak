@@ -1,5 +1,13 @@
 [
   {
+    "id": "2055715057",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1783170348000,
+    "title": "First Unique Character in a String",
+    "titleSlug": "first-unique-character-in-a-string"
+  },
+  {
     "id": "2055712361",
     "lang": "c",
     "statusDisplay": "Accepted",
@@ -611,10 +619,18 @@
     "titleSlug": "palindrome-number"
   },
   {
-    "id": "2055715057",
-    "title": "First Unique Character in a String",
-    "titleSlug": "first-unique-character-in-a-string",
-    "timestamp": 1783170348000,
+    "id": "2056120690",
+    "title": "Is Subsequence",
+    "titleSlug": "is-subsequence",
+    "timestamp": 1783187863000,
+    "lang": "c",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2056080424",
+    "title": "Elimination Game",
+    "titleSlug": "elimination-game",
+    "timestamp": 1783185733000,
     "lang": "c",
     "statusDisplay": "Accepted"
   }

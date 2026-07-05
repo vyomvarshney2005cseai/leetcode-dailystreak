@@ -39,22 +39,22 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Difficulty | Solved | Progress Bar |
 | :--- | :---: | :--- |
-| **Easy** | 50 | `[████████░░]` (79.4%) |
-| **Medium** | 12 | `[██░░░░░░░░]` (19.0%) |
+| **Easy** | 50 | `[████████░░]` (78.1%) |
+| **Medium** | 13 | `[██░░░░░░░░]` (20.3%) |
 | **Hard** | 1 | `[░░░░░░░░░░]` (1.6%) |
 
 ## Top LeetCode Topics
 
 | Topic | Solved |
 | :--- | :--- |
-| Array | 33 |
+| Array | 34 |
 | Math | 24 |
+| Hash Table | 17 |
 | String | 17 |
-| Hash Table | 16 |
-| Sorting | 11 |
+| Sorting | 12 |
 | Two Pointers | 6 |
+| Divide and Conquer | 4 |
 | Simulation | 4 |
-| Divide and Conquer | 3 |
 | Dynamic Programming | 2 |
 | Trie | 2 |
 

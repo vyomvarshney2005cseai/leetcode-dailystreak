@@ -4,6 +4,7 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-07-05 | Leetcode | Rotate Function | c |
 | 2026-07-05 | Leetcode | Top K Frequent Elements | c |
 | 2026-07-05 | Leetcode | Top K Frequent Elements | c |
 | 2026-07-05 | Leetcode | Top K Frequent Elements | c |

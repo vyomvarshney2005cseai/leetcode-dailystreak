@@ -4,6 +4,7 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-07-07 | Leetcode | Score of a String | c |
 | 2026-07-07 | Leetcode | Find Peak Element | c |
 | 2026-07-06 | Leetcode | Longest Consecutive Sequence | c |
 | 2026-07-05 | Leetcode | Rotate Function | c |

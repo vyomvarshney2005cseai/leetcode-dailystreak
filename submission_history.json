@@ -1,5 +1,13 @@
 [
   {
+    "id": "2059364223",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1783432872000,
+    "title": "Find Peak Element",
+    "titleSlug": "find-peak-element"
+  },
+  {
     "id": "2058111710",
     "lang": "c",
     "statusDisplay": "Accepted",
@@ -699,10 +707,10 @@
     "titleSlug": "palindrome-number"
   },
   {
-    "id": "2059364223",
-    "title": "Find Peak Element",
-    "titleSlug": "find-peak-element",
-    "timestamp": 1783432872000,
+    "id": "2059673412",
+    "title": "Score of a String",
+    "titleSlug": "score-of-a-string",
+    "timestamp": 1783448075000,
     "lang": "c",
     "statusDisplay": "Accepted"
   }

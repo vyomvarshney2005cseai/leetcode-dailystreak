@@ -3,7 +3,7 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-69_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-70_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Codeforces-1_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 69 | [ `/LeetCode`](./LeetCode) |
+| **LeetCode** | 70 | [ `/LeetCode`](./LeetCode) |
 | **Codeforces** | 1 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **70** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **71** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -103,6 +103,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | c | [View Solution](./LeetCode/Medium/53-maximum-subarray) |
 | LeetCode | [Maximum Total Subarray Value II](https://leetcode.com/problems/maximum-total-subarray-value-ii/) | c | [View Solution](./LeetCode/Hard/3691-maximum-total-subarray-value-ii) |
 | LeetCode | [Minimum Number Game](https://leetcode.com/problems/minimum-number-game/) | c | [View Solution](./LeetCode/Unknown/minimum-number-game) |
+| LeetCode | [Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/) | c | [View Solution](./LeetCode/Medium/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | LeetCode | [Minimum Operations to Make Array Sum Divisible by K](https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/) | c | [View Solution](./LeetCode/Easy/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | LeetCode | [Mirror Distance of an Integer](https://leetcode.com/problems/mirror-distance-of-an-integer/) | c | [View Solution](./LeetCode/Easy/3783-mirror-distance-of-an-integer) |
 | LeetCode | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | c | [View Solution](./LeetCode/Easy/283-move-zeroes) |

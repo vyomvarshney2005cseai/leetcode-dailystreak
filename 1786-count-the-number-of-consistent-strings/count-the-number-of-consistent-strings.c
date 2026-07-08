@@ -1,0 +1,22 @@
+int countConsistentStrings(char * allowed, char ** words, int wordsSize){
+    int ans=0;
+    int hash[26]={0};
+    for(int i=0;i<strlen(allowed);i++){
+        hash[allowed[i]-'a']=1;
+    }
+    for(int i=0;i<wordsSize;i++){
+        int c=0;
+        for(int j=0;words[i][j]!='\0';j++){
+            if(hash[words[i][j]-'a']==1){
+                c++;
+            }
+            else{
+                break;
+            }
+        }
+        if(c==strlen(words[i])){
+            ans++;
+        }
+    }
+    return ans;
+}

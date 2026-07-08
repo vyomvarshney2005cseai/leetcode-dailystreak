@@ -2,23 +2,23 @@
  * Note: The returned array must be malloced, assume caller calls free().
  */
 int* leftRightDifference(int* nums, int numsSize, int* returnSize) {
-    *returnSize=numsSize;
-    int rsum[numsSize];
-    int lsum[numsSize];
-    for(int i=0;i<numsSize;i++){
-        rsum[i]=0;
-        lsum[i]=0;
+    int* answer = (int*)malloc(numsSize * sizeof(int));
+
+    int totalSum = 0;
+    int leftSum = 0;
+
+
+    for (int i = 0; i < numsSize; i++) {
+        totalSum += nums[i];
     }
-    int* ans=(int*)malloc(sizeof(int)*numsSize);
-    for(int i=0;i<numsSize;i++){
-        for(int j=i+1;j<numsSize;j++){
-            rsum[i]+=nums[j];
-        }
-        for(int k=0;k<i;k++){
-            lsum[i]+=nums[k];
-        }
-        ans[i]=abs(lsum[i]-rsum[i]);
+
+
+    for (int i = 0; i < numsSize; i++) {
+        int rightSum = totalSum - leftSum - nums[i];
+        answer[i] = abs(leftSum - rightSum);
+        leftSum += nums[i];
     }
-    return ans;
-    
+
+    *returnSize = numsSize;
+    return answer;
 }

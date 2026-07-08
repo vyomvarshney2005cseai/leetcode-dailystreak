@@ -99,7 +99,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | c | [View Solution](./LeetCode/Medium/49-group-anagrams) |
 | LeetCode | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | c | [View Solution](./LeetCode/Easy/392-is-subsequence) |
 | LeetCode | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | c | [View Solution](./LeetCode/Easy/771-jewels-and-stones) |
-| LeetCode | [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/) | c | [View Solution](./LeetCode/Unknown/left-and-right-sum-differences) |
+| LeetCode | [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/) | c | [View Solution](./LeetCode/Easy/2574-left-and-right-sum-differences) |
 | LeetCode | [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/) | c | [View Solution](./LeetCode/Medium/386-lexicographical-numbers) |
 | LeetCode | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | c | [View Solution](./LeetCode/Easy/14-longest-common-prefix) |
 | LeetCode | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | c | [View Solution](./LeetCode/Medium/128-longest-consecutive-sequence) |

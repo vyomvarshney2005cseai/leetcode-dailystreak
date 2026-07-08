@@ -3,7 +3,7 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-81_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-82_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Codeforces-1_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 81 | [ `/LeetCode`](./LeetCode) |
+| **LeetCode** | 82 | [ `/LeetCode`](./LeetCode) |
 | **Codeforces** | 1 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **82** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **83** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -135,6 +135,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number/) | c | [View Solution](./LeetCode/Medium/2396-strictly-palindromic-number) |
 | LeetCode | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | c | [View Solution](./LeetCode/Easy/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | LeetCode | [Sum Multiples](https://leetcode.com/problems/sum-multiples/) | c | [View Solution](./LeetCode/Easy/2652-sum-multiples) |
+| LeetCode | [The Two Sneaky Numbers of Digitville](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/) | c | [View Solution](./LeetCode/Easy/3289-the-two-sneaky-numbers-of-digitville) |
 | LeetCode | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | c | [View Solution](./LeetCode/Unknown/third-maximum-number) |
 | LeetCode | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | c | [View Solution](./LeetCode/Easy/709-to-lower-case) |
 | LeetCode | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | c | [View Solution](./LeetCode/Medium/347-top-k-frequent-elements) |

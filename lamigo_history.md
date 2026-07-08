@@ -4,6 +4,9 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-07-08 | Leetcode | Minimum Element After Replacement With Digit Sum | c |
+| 2026-07-08 | Leetcode | Left and Right Sum Differences | c |
+| 2026-07-08 | Leetcode | Left and Right Sum Differences | c |
 | 2026-07-08 | Leetcode | The Two Sneaky Numbers of Digitville | c |
 | 2026-07-08 | Leetcode | Transform Array by Parity | c |
 | 2026-07-08 | Leetcode | Number of Good Pairs | c |

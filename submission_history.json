@@ -1,5 +1,21 @@
 [
   {
+    "id": "2059705652",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1783449890000,
+    "title": "Partition Array According to Given Pivot",
+    "titleSlug": "partition-array-according-to-given-pivot"
+  },
+  {
+    "id": "2059697038",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1783449323000,
+    "title": "Build Array from Permutation",
+    "titleSlug": "build-array-from-permutation"
+  },
+  {
     "id": "2059673412",
     "lang": "c",
     "statusDisplay": "Accepted",
@@ -715,18 +731,26 @@
     "titleSlug": "palindrome-number"
   },
   {
-    "id": "2059705652",
-    "title": "Partition Array According to Given Pivot",
-    "titleSlug": "partition-array-according-to-given-pivot",
-    "timestamp": 1783449890000,
+    "id": "2060481067",
+    "title": "Strictly Palindromic Number",
+    "titleSlug": "strictly-palindromic-number",
+    "timestamp": 1783513095000,
     "lang": "c",
     "statusDisplay": "Accepted"
   },
   {
-    "id": "2059697038",
-    "title": "Build Array from Permutation",
-    "titleSlug": "build-array-from-permutation",
-    "timestamp": 1783449323000,
+    "id": "2060247075",
+    "title": "Longest Consecutive Sequence",
+    "titleSlug": "longest-consecutive-sequence",
+    "timestamp": 1783499424000,
+    "lang": "c",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2060051781",
+    "title": "Weighted Word Mapping",
+    "titleSlug": "weighted-word-mapping",
+    "timestamp": 1783489026000,
     "lang": "c",
     "statusDisplay": "Accepted"
   }

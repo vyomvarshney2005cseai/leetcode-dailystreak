@@ -937,5 +937,13 @@
     "timestamp": 1762632585000,
     "title": "Palindrome Number",
     "titleSlug": "palindrome-number"
+  },
+  {
+    "id": "2060842464",
+    "title": "Transform Array by Parity",
+    "titleSlug": "transform-array-by-parity",
+    "timestamp": 1783531868000,
+    "lang": "c",
+    "statusDisplay": "Accepted"
   }
 ]

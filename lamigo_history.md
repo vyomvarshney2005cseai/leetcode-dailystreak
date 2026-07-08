@@ -4,14 +4,24 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-07-08 | Leetcode | Number of Good Pairs | c |
+| 2026-07-08 | Leetcode | Defanging an IP Address | c |
 | 2026-07-08 | Leetcode | Defanging an IP Address | c |
 | 2026-07-08 | Leetcode | Minimum Number of Operations to Move All Balls to Each Box | c |
+| 2026-07-08 | Leetcode | Minimum Number of Operations to Move All Balls to Each Box | c |
+| 2026-07-08 | Leetcode | Compute Alternating Sum | c |
 | 2026-07-08 | Leetcode | Strictly Palindromic Number | c |
 | 2026-07-08 | Leetcode | Longest Consecutive Sequence | c |
 | 2026-07-08 | Leetcode | Weighted Word Mapping | c |
+| 2026-07-08 | Leetcode | Partitioning Into Minimum Number Of Deci-Binary Numbers | c |
 | 2026-07-07 | Leetcode | Partition Array According to Given Pivot | c |
 | 2026-07-07 | Leetcode | Build Array from Permutation | c |
+| 2026-07-07 | Leetcode | Restore Finishing Order | c |
 | 2026-07-07 | Leetcode | Score of a String | c |
+| 2026-07-07 | Leetcode | Score of a String | c |
+| 2026-07-07 | Leetcode | Maximum Substrings With Distinct Start | c |
+| 2026-07-07 | Leetcode | Maximum Substrings With Distinct Start | c |
+| 2026-07-07 | Leetcode | Concatenate Array With Reverse | c |
 | 2026-07-07 | Leetcode | Find Peak Element | c |
 | 2026-07-06 | Leetcode | Longest Consecutive Sequence | c |
 | 2026-07-05 | Leetcode | Rotate Function | c |
@@ -21,14 +31,25 @@ A complete history of all accepted submissions synced by L'Amigo.
 | 2026-07-05 | Leetcode | Top K Frequent Elements | c |
 | 2026-07-05 | Leetcode | Top K Frequent Elements | c |
 | 2026-07-05 | Leetcode | Top K Frequent Elements | c |
+| 2026-07-05 | Leetcode | Top K Frequent Elements | c |
+| 2026-07-05 | Leetcode | Top K Frequent Elements | c |
+| 2026-07-05 | Leetcode | Top K Frequent Elements | c |
+| 2026-07-05 | Leetcode | Top K Frequent Elements | c |
+| 2026-07-04 | Leetcode | Is Subsequence | c |
 | 2026-07-04 | Leetcode | Is Subsequence | c |
 | 2026-07-04 | Leetcode | Elimination Game | c |
+| 2026-07-04 | Leetcode | Find the Difference | c |
+| 2026-07-04 | Leetcode | First Unique Character in a String | c |
+| 2026-07-04 | Leetcode | First Unique Character in a String | c |
 | 2026-07-04 | Leetcode | First Unique Character in a String | c |
 | 2026-07-04 | Leetcode | First Unique Character in a String | c |
 | 2026-07-04 | Leetcode | Lexicographical Numbers | c |
 | 2026-07-04 | Leetcode | Move Zeroes | c |
+| 2026-07-04 | Leetcode | Remove Duplicates from Sorted Array | c |
+| 2026-07-04 | Leetcode | Sort Colors | c |
 | 2026-07-04 | Leetcode | Sort Colors | c |
 | 2026-07-04 | Leetcode | Sort an Array | c |
+| 2026-07-03 | Leetcode | Merge Sorted Array | c |
 | 2026-07-03 | Leetcode | Next Greater Element I | c |
 | 2026-07-03 | Leetcode | Next Greater Element II | c |
 | 2026-07-02 | Leetcode | Maximum Subarray | c |

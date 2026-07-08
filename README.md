@@ -3,7 +3,7 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-86_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-87_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Codeforces-1_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 86 | [ `/LeetCode`](./LeetCode) |
+| **LeetCode** | 87 | [ `/LeetCode`](./LeetCode) |
 | **Codeforces** | 1 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **87** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **88** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -39,24 +39,24 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Difficulty | Solved | Progress Bar |
 | :--- | :---: | :--- |
-| **Easy** | 66 | `[████████░░]` (75.0%) |
-| **Medium** | 21 | `[██░░░░░░░░]` (23.9%) |
+| **Easy** | 67 | `[███████░░░]` (74.4%) |
+| **Medium** | 22 | `[██░░░░░░░░]` (24.4%) |
 | **Hard** | 1 | `[░░░░░░░░░░]` (1.1%) |
 
 ## Top LeetCode Topics
 
 | Topic | Solved |
 | :--- | :--- |
-| Array | 50 |
+| Array | 52 |
 | Math | 29 |
-| String | 26 |
-| Hash Table | 23 |
+| String | 27 |
+| Hash Table | 24 |
 | Sorting | 13 |
 | Simulation | 10 |
 | Two Pointers | 9 |
 | Divide and Conquer | 4 |
+| Bit Manipulation | 4 |
 | Dynamic Programming | 3 |
-| Trie | 2 |
 
 
 ## Synced Solutions Index
@@ -95,6 +95,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | c | [View Solution](./LeetCode/Easy/389-find-the-difference) |
 | LeetCode | [Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/) | c | [View Solution](./LeetCode/Easy/2769-find-the-maximum-achievable-number) |
 | LeetCode | [Find The Original Array of Prefix Xor](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/) | c | [View Solution](./LeetCode/Medium/2433-find-the-original-array-of-prefix-xor) |
+| LeetCode | [Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/) | c | [View Solution](./LeetCode/Medium/2657-find-the-prefix-common-array-of-two-arrays) |
 | LeetCode | [Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/) | c | [View Solution](./LeetCode/Easy/2942-find-words-containing-character) |
 | LeetCode | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | c | [View Solution](./LeetCode/Easy/387-first-unique-character-in-a-string) |
 | LeetCode | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | c | [View Solution](./LeetCode/Medium/49-group-anagrams) |

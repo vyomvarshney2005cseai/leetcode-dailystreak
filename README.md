@@ -3,7 +3,7 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-67_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-69_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Codeforces-1_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 67 | [ `/LeetCode`](./LeetCode) |
+| **LeetCode** | 69 | [ `/LeetCode`](./LeetCode) |
 | **Codeforces** | 1 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **68** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **70** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -39,21 +39,21 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Difficulty | Solved | Progress Bar |
 | :--- | :---: | :--- |
-| **Easy** | 54 | `[███████░░░]` (74.0%) |
-| **Medium** | 18 | `[██░░░░░░░░]` (24.7%) |
-| **Hard** | 1 | `[░░░░░░░░░░]` (1.4%) |
+| **Easy** | 55 | `[███████░░░]` (72.4%) |
+| **Medium** | 20 | `[███░░░░░░░]` (26.3%) |
+| **Hard** | 1 | `[░░░░░░░░░░]` (1.3%) |
 
 ## Top LeetCode Topics
 
 | Topic | Solved |
 | :--- | :--- |
-| Array | 41 |
-| Math | 25 |
+| Array | 42 |
+| Math | 26 |
+| String | 21 |
 | Hash Table | 20 |
-| String | 19 |
 | Sorting | 12 |
-| Simulation | 7 |
-| Two Pointers | 7 |
+| Simulation | 8 |
+| Two Pointers | 8 |
 | Divide and Conquer | 4 |
 | Dynamic Programming | 3 |
 | Trie | 2 |
@@ -121,6 +121,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/) | c | [View Solution](./LeetCode/Unknown/smallest-even-multiple) |
 | LeetCode | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | c | [View Solution](./LeetCode/Medium/912-sort-an-array) |
 | LeetCode | [Sort Colors](https://leetcode.com/problems/sort-colors/) | c | [View Solution](./LeetCode/Medium/75-sort-colors) |
+| LeetCode | [Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number/) | c | [View Solution](./LeetCode/Medium/2396-strictly-palindromic-number) |
 | LeetCode | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | c | [View Solution](./LeetCode/Easy/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | LeetCode | [Sum Multiples](https://leetcode.com/problems/sum-multiples/) | c | [View Solution](./LeetCode/Easy/2652-sum-multiples) |
 | LeetCode | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | c | [View Solution](./LeetCode/Unknown/third-maximum-number) |
@@ -130,5 +131,6 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Type of Triangle](https://leetcode.com/problems/type-of-triangle/) | c | [View Solution](./LeetCode/Easy/3024-type-of-triangle) |
 | LeetCode | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | c | [View Solution](./LeetCode/Easy/242-valid-anagram) |
 | Codeforces | [Watermelon](https://codeforces.com/contest/4/problem/A) | GNU C11 | [View Solution](./Codeforces/4/A) |
+| LeetCode | [Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping/) | c | [View Solution](./LeetCode/Easy/3838-weighted-word-mapping) |
 | LeetCode | [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/) | c | [View Solution](./LeetCode/Unknown/xor-operation-in-an-array) |
 

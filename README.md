@@ -3,7 +3,7 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-82_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-84_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Codeforces-1_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 82 | [ `/LeetCode`](./LeetCode) |
+| **LeetCode** | 84 | [ `/LeetCode`](./LeetCode) |
 | **Codeforces** | 1 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **83** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **85** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -39,21 +39,21 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Difficulty | Solved | Progress Bar |
 | :--- | :---: | :--- |
-| **Easy** | 61 | `[███████░░░]` (73.5%) |
-| **Medium** | 21 | `[███░░░░░░░]` (25.3%) |
-| **Hard** | 1 | `[░░░░░░░░░░]` (1.2%) |
+| **Easy** | 65 | `[███████░░░]` (74.7%) |
+| **Medium** | 21 | `[██░░░░░░░░]` (24.1%) |
+| **Hard** | 1 | `[░░░░░░░░░░]` (1.1%) |
 
 ## Top LeetCode Topics
 
 | Topic | Solved |
 | :--- | :--- |
-| Array | 48 |
-| Math | 28 |
-| String | 23 |
-| Hash Table | 22 |
+| Array | 49 |
+| Math | 29 |
+| String | 26 |
+| Hash Table | 23 |
 | Sorting | 13 |
-| Simulation | 9 |
-| Two Pointers | 8 |
+| Simulation | 10 |
+| Two Pointers | 9 |
 | Divide and Conquer | 4 |
 | Dynamic Programming | 3 |
 | Trie | 2 |
@@ -98,6 +98,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | c | [View Solution](./LeetCode/Medium/49-group-anagrams) |
 | LeetCode | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | c | [View Solution](./LeetCode/Easy/392-is-subsequence) |
 | LeetCode | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | c | [View Solution](./LeetCode/Easy/771-jewels-and-stones) |
+| LeetCode | [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/) | c | [View Solution](./LeetCode/Unknown/left-and-right-sum-differences) |
 | LeetCode | [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/) | c | [View Solution](./LeetCode/Medium/386-lexicographical-numbers) |
 | LeetCode | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | c | [View Solution](./LeetCode/Easy/14-longest-common-prefix) |
 | LeetCode | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | c | [View Solution](./LeetCode/Medium/128-longest-consecutive-sequence) |
@@ -108,6 +109,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Maximum Substrings With Distinct Start](https://leetcode.com/problems/maximum-substrings-with-distinct-start/) | c | [View Solution](./LeetCode/Medium/3760-maximum-substrings-with-distinct-start) |
 | LeetCode | [Maximum Total Subarray Value II](https://leetcode.com/problems/maximum-total-subarray-value-ii/) | c | [View Solution](./LeetCode/Hard/3691-maximum-total-subarray-value-ii) |
 | LeetCode | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | c | [View Solution](./LeetCode/Easy/88-merge-sorted-array) |
+| LeetCode | [Minimum Element After Replacement With Digit Sum](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/) | c | [View Solution](./LeetCode/Easy/3300-minimum-element-after-replacement-with-digit-sum) |
 | LeetCode | [Minimum Number Game](https://leetcode.com/problems/minimum-number-game/) | c | [View Solution](./LeetCode/Unknown/minimum-number-game) |
 | LeetCode | [Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/) | c | [View Solution](./LeetCode/Medium/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | LeetCode | [Minimum Operations to Make Array Sum Divisible by K](https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/) | c | [View Solution](./LeetCode/Easy/3512-minimum-operations-to-make-array-sum-divisible-by-k) |

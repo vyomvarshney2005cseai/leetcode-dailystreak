@@ -2,25 +2,30 @@
  * Note: The returned array must be malloced, assume caller calls free().
  */
 int* minOperations(char* boxes, int* returnSize) {
-    int boxs[strlen(boxes)];
-    int* answer=(int*)malloc(sizeof(int)*strlen(boxes));
-    *returnSize=strlen(boxes);
-    for(int i=0;boxes[i]!='\0';i++){
-        if(boxes[i]=='0'){
-            boxs[i]=0;
-        }
-        else{
-            boxs[i]=1;
-        }
+
+    int len = strlen(boxes);
+    int *ans = (int *)calloc(len, sizeof(int));
+    
+    int balls = 0;
+    int ops = 0;
+    
+    
+    for (int i = 0; i < len; i++) {
+        ans[i] += ops;
+        if (boxes[i] == '1') balls++;
+        ops += balls;
     }
-    for(int i=0;boxes[i]!='\0';i++){
-        int dif=0;
-        for(int j=0;boxes[j]!='\0';j++){
-                if(boxs[j]==1){
-                    dif+=abs(i-j);
-                }
-        }
-        answer[i]=dif;
+    
+    balls = 0;
+    ops = 0;
+    
+    for (int i = len - 1; i >= 0; i--) {
+        ans[i] += ops;
+        if (boxes[i] == '1') balls++;
+        ops += balls;
     }
-    return answer;
+    
+    *returnSize = len;
+    return ans;
+
 }

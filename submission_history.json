@@ -953,5 +953,29 @@
     "timestamp": 1762632585000,
     "title": "Palindrome Number",
     "titleSlug": "palindrome-number"
+  },
+  {
+    "id": "2060911673",
+    "title": "Minimum Element After Replacement With Digit Sum",
+    "titleSlug": "minimum-element-after-replacement-with-digit-sum",
+    "timestamp": 1783534902000,
+    "lang": "c",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2060901101",
+    "title": "Left and Right Sum Differences",
+    "titleSlug": "left-and-right-sum-differences",
+    "timestamp": 1783534427000,
+    "lang": "c",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2060898907",
+    "title": "Left and Right Sum Differences",
+    "titleSlug": "left-and-right-sum-differences",
+    "timestamp": 1783534331000,
+    "lang": "c",
+    "statusDisplay": "Accepted"
   }
 ]

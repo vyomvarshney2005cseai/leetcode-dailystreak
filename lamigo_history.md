@@ -4,6 +4,7 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-07-08 | Leetcode | Transform Array by Parity | c |
 | 2026-07-08 | Leetcode | Number of Good Pairs | c |
 | 2026-07-08 | Leetcode | Defanging an IP Address | c |
 | 2026-07-08 | Leetcode | Defanging an IP Address | c |

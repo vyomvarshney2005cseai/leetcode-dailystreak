@@ -1,5 +1,13 @@
 [
   {
+    "id": "2061003276",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1783541287000,
+    "title": "Find The Original Array of Prefix Xor",
+    "titleSlug": "find-the-original-array-of-prefix-xor"
+  },
+  {
     "id": "2060992163",
     "lang": "c",
     "statusDisplay": "Accepted",
@@ -995,10 +1003,10 @@
     "titleSlug": "palindrome-number"
   },
   {
-    "id": "2061003276",
-    "title": "Find The Original Array of Prefix Xor",
-    "titleSlug": "find-the-original-array-of-prefix-xor",
-    "timestamp": 1783541287000,
+    "id": "2061014045",
+    "title": "Find the Prefix Common Array of Two Arrays",
+    "titleSlug": "find-the-prefix-common-array-of-two-arrays",
+    "timestamp": 1783542393000,
     "lang": "c",
     "statusDisplay": "Accepted"
   }

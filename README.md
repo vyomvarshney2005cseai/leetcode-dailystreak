@@ -105,7 +105,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Majority Element](https://leetcode.com/problems/majority-element/) | c | [View Solution](./LeetCode/Unknown/majority-element) |
 | LeetCode | [Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/) | c | [View Solution](./LeetCode/Unknown/maximum-number-of-words-found-in-sentences) |
 | LeetCode | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | c | [View Solution](./LeetCode/Medium/53-maximum-subarray) |
-| LeetCode | [Maximum Substrings With Distinct Start](https://leetcode.com/problems/maximum-substrings-with-distinct-start/) | c | [View Solution](./LeetCode/Unknown/maximum-substrings-with-distinct-start) |
+| LeetCode | [Maximum Substrings With Distinct Start](https://leetcode.com/problems/maximum-substrings-with-distinct-start/) | c | [View Solution](./LeetCode/Medium/3760-maximum-substrings-with-distinct-start) |
 | LeetCode | [Maximum Total Subarray Value II](https://leetcode.com/problems/maximum-total-subarray-value-ii/) | c | [View Solution](./LeetCode/Hard/3691-maximum-total-subarray-value-ii) |
 | LeetCode | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | c | [View Solution](./LeetCode/Easy/88-merge-sorted-array) |
 | LeetCode | [Minimum Number Game](https://leetcode.com/problems/minimum-number-game/) | c | [View Solution](./LeetCode/Unknown/minimum-number-game) |

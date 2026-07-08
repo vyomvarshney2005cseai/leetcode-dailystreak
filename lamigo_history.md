@@ -4,6 +4,8 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-07-07 | Leetcode | Partition Array According to Given Pivot | c |
+| 2026-07-07 | Leetcode | Build Array from Permutation | c |
 | 2026-07-07 | Leetcode | Score of a String | c |
 | 2026-07-07 | Leetcode | Find Peak Element | c |
 | 2026-07-06 | Leetcode | Longest Consecutive Sequence | c |

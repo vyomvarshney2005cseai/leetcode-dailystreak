@@ -4,7 +4,7 @@
  * Submission: Try 1
  * status: Accepted
  * Language: c
- * Date: 7/7/2026, 11:44:35 PM
+ * Date: 7/7/2026, 11:44:15 PM
  * Link: https://leetcode.com/problems/score-of-a-string/
  */
 

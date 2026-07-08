@@ -3,7 +3,7 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-80_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-81_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Codeforces-1_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 80 | [ `/LeetCode`](./LeetCode) |
+| **LeetCode** | 81 | [ `/LeetCode`](./LeetCode) |
 | **Codeforces** | 1 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **81** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **82** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -138,6 +138,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | c | [View Solution](./LeetCode/Unknown/third-maximum-number) |
 | LeetCode | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | c | [View Solution](./LeetCode/Easy/709-to-lower-case) |
 | LeetCode | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | c | [View Solution](./LeetCode/Medium/347-top-k-frequent-elements) |
+| LeetCode | [Transform Array by Parity](https://leetcode.com/problems/transform-array-by-parity/) | c | [View Solution](./LeetCode/Easy/3467-transform-array-by-parity) |
 | LeetCode | [Two Sum](https://leetcode.com/problems/two-sum/) | c | [View Solution](./LeetCode/Easy/1-two-sum) |
 | LeetCode | [Type of Triangle](https://leetcode.com/problems/type-of-triangle/) | c | [View Solution](./LeetCode/Easy/3024-type-of-triangle) |
 | LeetCode | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | c | [View Solution](./LeetCode/Easy/242-valid-anagram) |

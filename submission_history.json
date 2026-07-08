@@ -1,5 +1,13 @@
 [
   {
+    "id": "2059673412",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1783448075000,
+    "title": "Score of a String",
+    "titleSlug": "score-of-a-string"
+  },
+  {
     "id": "2059364223",
     "lang": "c",
     "statusDisplay": "Accepted",
@@ -707,10 +715,18 @@
     "titleSlug": "palindrome-number"
   },
   {
-    "id": "2059673412",
-    "title": "Score of a String",
-    "titleSlug": "score-of-a-string",
-    "timestamp": 1783448075000,
+    "id": "2059705652",
+    "title": "Partition Array According to Given Pivot",
+    "titleSlug": "partition-array-according-to-given-pivot",
+    "timestamp": 1783449890000,
+    "lang": "c",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2059697038",
+    "title": "Build Array from Permutation",
+    "titleSlug": "build-array-from-permutation",
+    "timestamp": 1783449323000,
     "lang": "c",
     "statusDisplay": "Accepted"
   }

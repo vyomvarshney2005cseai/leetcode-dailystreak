@@ -3,7 +3,7 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-70_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-71_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Codeforces-1_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 70 | [ `/LeetCode`](./LeetCode) |
+| **LeetCode** | 71 | [ `/LeetCode`](./LeetCode) |
 | **Codeforces** | 1 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **71** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **72** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -39,20 +39,20 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Difficulty | Solved | Progress Bar |
 | :--- | :---: | :--- |
-| **Easy** | 55 | `[███████░░░]` (72.4%) |
-| **Medium** | 20 | `[███░░░░░░░]` (26.3%) |
+| **Easy** | 56 | `[███████░░░]` (72.7%) |
+| **Medium** | 20 | `[███░░░░░░░]` (26.0%) |
 | **Hard** | 1 | `[░░░░░░░░░░]` (1.3%) |
 
 ## Top LeetCode Topics
 
 | Topic | Solved |
 | :--- | :--- |
-| Array | 42 |
+| Array | 43 |
 | Math | 26 |
 | String | 21 |
 | Hash Table | 20 |
 | Sorting | 12 |
-| Simulation | 8 |
+| Simulation | 9 |
 | Two Pointers | 8 |
 | Divide and Conquer | 4 |
 | Dynamic Programming | 3 |
@@ -78,6 +78,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Count Digit Appearances](https://leetcode.com/problems/count-digit-appearances/) | c | [View Solution](./LeetCode/Medium/3895-count-digit-appearances) |
 | LeetCode | [Count Primes](https://leetcode.com/problems/count-primes/) | c | [View Solution](./LeetCode/Medium/204-count-primes) |
 | LeetCode | [Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number/) | c | [View Solution](./LeetCode/Unknown/count-the-digits-that-divide-a-number) |
+| LeetCode | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | c | [View Solution](./LeetCode/Easy/1108-defanging-an-ip-address) |
 | LeetCode | [Design HashMap](https://leetcode.com/problems/design-hashmap/) | c | [View Solution](./LeetCode/Easy/706-design-hashmap) |
 | LeetCode | [Design HashSet](https://leetcode.com/problems/design-hashset/) | c | [View Solution](./LeetCode/Easy/705-design-hashset) |
 | LeetCode | [Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/) | c | [View Solution](./LeetCode/Unknown/difference-between-element-sum-and-digit-sum-of-an-array) |

@@ -3,7 +3,7 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-65_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-67_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Codeforces-1_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 65 | [ `/LeetCode`](./LeetCode) |
+| **LeetCode** | 67 | [ `/LeetCode`](./LeetCode) |
 | **Codeforces** | 1 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **66** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **68** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -39,21 +39,21 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Difficulty | Solved | Progress Bar |
 | :--- | :---: | :--- |
-| **Easy** | 51 | `[███████░░░]` (73.9%) |
-| **Medium** | 17 | `[██░░░░░░░░]` (24.6%) |
+| **Easy** | 54 | `[███████░░░]` (74.0%) |
+| **Medium** | 18 | `[██░░░░░░░░]` (24.7%) |
 | **Hard** | 1 | `[░░░░░░░░░░]` (1.4%) |
 
 ## Top LeetCode Topics
 
 | Topic | Solved |
 | :--- | :--- |
-| Array | 38 |
+| Array | 41 |
 | Math | 25 |
-| Hash Table | 19 |
-| String | 18 |
+| Hash Table | 20 |
+| String | 19 |
 | Sorting | 12 |
-| Two Pointers | 6 |
-| Simulation | 5 |
+| Simulation | 7 |
+| Two Pointers | 7 |
 | Divide and Conquer | 4 |
 | Dynamic Programming | 3 |
 | Trie | 2 |
@@ -65,6 +65,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | :--- | :--- | :--- | :--- |
 | LeetCode | [Add Digits](https://leetcode.com/problems/add-digits/) | c | [View Solution](./LeetCode/Easy/258-add-digits) |
 | LeetCode | [Add Two Integers](https://leetcode.com/problems/add-two-integers/) | c | [View Solution](./LeetCode/Easy/2235-add-two-integers) |
+| LeetCode | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) | c | [View Solution](./LeetCode/Easy/1920-build-array-from-permutation) |
 | LeetCode | [Check Good Integer](https://leetcode.com/problems/check-good-integer/) | c | [View Solution](./LeetCode/Unknown/check-good-integer) |
 | LeetCode | [Check if a String Is an Acronym of Words](https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words/) | c | [View Solution](./LeetCode/Unknown/check-if-a-string-is-an-acronym-of-words) |
 | LeetCode | [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) | c | [View Solution](./LeetCode/Easy/1832-check-if-the-sentence-is-pangram) |
@@ -109,6 +110,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | c | [View Solution](./LeetCode/Medium/503-next-greater-element-ii) |
 | LeetCode | [Number of Employees Who Met the Target](https://leetcode.com/problems/number-of-employees-who-met-the-target/) | c | [View Solution](./LeetCode/Easy/2798-number-of-employees-who-met-the-target) |
 | LeetCode | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | cpp | [View Solution](./LeetCode/Unknown/palindrome-number) |
+| LeetCode | [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/) | c | [View Solution](./LeetCode/Unknown/partition-array-according-to-given-pivot) |
 | LeetCode | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | c | [View Solution](./LeetCode/Medium/238-product-of-array-except-self) |
 | LeetCode | [Remove Element](https://leetcode.com/problems/remove-element/) | c | [View Solution](./LeetCode/Easy/27-remove-element) |
 | LeetCode | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | c | [View Solution](./LeetCode/Unknown/richest-customer-wealth) |

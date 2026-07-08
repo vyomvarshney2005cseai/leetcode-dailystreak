@@ -4,6 +4,7 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-07-08 | Leetcode | Find the Prefix Common Array of Two Arrays | c |
 | 2026-07-08 | Leetcode | Find The Original Array of Prefix Xor | c |
 | 2026-07-08 | Leetcode | Count the Number of Consistent Strings | c |
 | 2026-07-08 | Leetcode | Count the Number of Consistent Strings | c |

@@ -1,5 +1,13 @@
 [
   {
+    "id": "2060992163",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1783540237000,
+    "title": "Count the Number of Consistent Strings",
+    "titleSlug": "count-the-number-of-consistent-strings"
+  },
+  {
     "id": "2060991218",
     "lang": "c",
     "statusDisplay": "Accepted",
@@ -987,10 +995,10 @@
     "titleSlug": "palindrome-number"
   },
   {
-    "id": "2060992163",
-    "title": "Count the Number of Consistent Strings",
-    "titleSlug": "count-the-number-of-consistent-strings",
-    "timestamp": 1783540237000,
+    "id": "2061003276",
+    "title": "Find The Original Array of Prefix Xor",
+    "titleSlug": "find-the-original-array-of-prefix-xor",
+    "timestamp": 1783541287000,
     "lang": "c",
     "statusDisplay": "Accepted"
   }

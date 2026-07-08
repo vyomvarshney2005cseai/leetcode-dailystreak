@@ -3,7 +3,7 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-71_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-80_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Codeforces-1_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 71 | [ `/LeetCode`](./LeetCode) |
+| **LeetCode** | 80 | [ `/LeetCode`](./LeetCode) |
 | **Codeforces** | 1 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **72** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **81** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -39,18 +39,18 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Difficulty | Solved | Progress Bar |
 | :--- | :---: | :--- |
-| **Easy** | 56 | `[███████░░░]` (72.7%) |
-| **Medium** | 20 | `[███░░░░░░░]` (26.0%) |
+| **Easy** | 58 | `[███████░░░]` (72.5%) |
+| **Medium** | 21 | `[███░░░░░░░]` (26.3%) |
 | **Hard** | 1 | `[░░░░░░░░░░]` (1.3%) |
 
 ## Top LeetCode Topics
 
 | Topic | Solved |
 | :--- | :--- |
-| Array | 43 |
-| Math | 26 |
-| String | 21 |
-| Hash Table | 20 |
+| Array | 45 |
+| Math | 27 |
+| String | 23 |
+| Hash Table | 21 |
 | Sorting | 12 |
 | Simulation | 9 |
 | Two Pointers | 8 |
@@ -69,6 +69,8 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Check Good Integer](https://leetcode.com/problems/check-good-integer/) | c | [View Solution](./LeetCode/Unknown/check-good-integer) |
 | LeetCode | [Check if a String Is an Acronym of Words](https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words/) | c | [View Solution](./LeetCode/Unknown/check-if-a-string-is-an-acronym-of-words) |
 | LeetCode | [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) | c | [View Solution](./LeetCode/Easy/1832-check-if-the-sentence-is-pangram) |
+| LeetCode | [Compute Alternating Sum](https://leetcode.com/problems/compute-alternating-sum/) | c | [View Solution](./LeetCode/Easy/3701-compute-alternating-sum) |
+| LeetCode | [Concatenate Array With Reverse](https://leetcode.com/problems/concatenate-array-with-reverse/) | c | [View Solution](./LeetCode/Easy/3925-concatenate-array-with-reverse) |
 | LeetCode | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | c | [View Solution](./LeetCode/Unknown/concatenation-of-array) |
 | LeetCode | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | c | [View Solution](./LeetCode/Easy/217-contains-duplicate) |
 | LeetCode | [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/) | c | [View Solution](./LeetCode/Unknown/convert-the-temperature) |
@@ -89,6 +91,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Find Closest Person](https://leetcode.com/problems/find-closest-person/) | c | [View Solution](./LeetCode/Easy/3516-find-closest-person) |
 | LeetCode | [Find Minimum Operations to Make All Elements Divisible by Three](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/) | c | [View Solution](./LeetCode/Unknown/find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | LeetCode | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | c | [View Solution](./LeetCode/Medium/162-find-peak-element) |
+| LeetCode | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | c | [View Solution](./LeetCode/Easy/389-find-the-difference) |
 | LeetCode | [Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/) | c | [View Solution](./LeetCode/Easy/2769-find-the-maximum-achievable-number) |
 | LeetCode | [Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/) | c | [View Solution](./LeetCode/Easy/2942-find-words-containing-character) |
 | LeetCode | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | c | [View Solution](./LeetCode/Easy/387-first-unique-character-in-a-string) |
@@ -102,7 +105,9 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Majority Element](https://leetcode.com/problems/majority-element/) | c | [View Solution](./LeetCode/Unknown/majority-element) |
 | LeetCode | [Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/) | c | [View Solution](./LeetCode/Unknown/maximum-number-of-words-found-in-sentences) |
 | LeetCode | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | c | [View Solution](./LeetCode/Medium/53-maximum-subarray) |
+| LeetCode | [Maximum Substrings With Distinct Start](https://leetcode.com/problems/maximum-substrings-with-distinct-start/) | c | [View Solution](./LeetCode/Unknown/maximum-substrings-with-distinct-start) |
 | LeetCode | [Maximum Total Subarray Value II](https://leetcode.com/problems/maximum-total-subarray-value-ii/) | c | [View Solution](./LeetCode/Hard/3691-maximum-total-subarray-value-ii) |
+| LeetCode | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | c | [View Solution](./LeetCode/Easy/88-merge-sorted-array) |
 | LeetCode | [Minimum Number Game](https://leetcode.com/problems/minimum-number-game/) | c | [View Solution](./LeetCode/Unknown/minimum-number-game) |
 | LeetCode | [Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/) | c | [View Solution](./LeetCode/Medium/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | LeetCode | [Minimum Operations to Make Array Sum Divisible by K](https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/) | c | [View Solution](./LeetCode/Easy/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -111,10 +116,14 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | c | [View Solution](./LeetCode/Easy/496-next-greater-element-i) |
 | LeetCode | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | c | [View Solution](./LeetCode/Medium/503-next-greater-element-ii) |
 | LeetCode | [Number of Employees Who Met the Target](https://leetcode.com/problems/number-of-employees-who-met-the-target/) | c | [View Solution](./LeetCode/Easy/2798-number-of-employees-who-met-the-target) |
+| LeetCode | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | c | [View Solution](./LeetCode/Easy/1512-number-of-good-pairs) |
 | LeetCode | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | cpp | [View Solution](./LeetCode/Unknown/palindrome-number) |
 | LeetCode | [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/) | c | [View Solution](./LeetCode/Unknown/partition-array-according-to-given-pivot) |
+| LeetCode | [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/) | c | [View Solution](./LeetCode/Unknown/partitioning-into-minimum-number-of-deci-binary-numbers) |
 | LeetCode | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | c | [View Solution](./LeetCode/Medium/238-product-of-array-except-self) |
+| LeetCode | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | c | [View Solution](./LeetCode/Easy/26-remove-duplicates-from-sorted-array) |
 | LeetCode | [Remove Element](https://leetcode.com/problems/remove-element/) | c | [View Solution](./LeetCode/Easy/27-remove-element) |
+| LeetCode | [Restore Finishing Order](https://leetcode.com/problems/restore-finishing-order/) | c | [View Solution](./LeetCode/Easy/3668-restore-finishing-order) |
 | LeetCode | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | c | [View Solution](./LeetCode/Unknown/richest-customer-wealth) |
 | LeetCode | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | c | [View Solution](./LeetCode/Easy/13-roman-to-integer) |
 | LeetCode | [Rotate Function](https://leetcode.com/problems/rotate-function/) | c | [View Solution](./LeetCode/Medium/396-rotate-function) |

@@ -4,11 +4,22 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-07-09 | Leetcode | Find the Prefix Common Array of Two Arrays | c |
+| 2026-07-09 | Leetcode | Find the Prefix Common Array of Two Arrays | c |
 | 2026-07-09 | Leetcode | Convert Date to Binary | python3 |
 | 2026-07-08 | Leetcode | Find the Prefix Common Array of Two Arrays | c |
+| 2026-07-08 | Leetcode | Find the Prefix Common Array of Two Arrays | c |
+| 2026-07-08 | Leetcode | Find The Original Array of Prefix Xor | c |
 | 2026-07-08 | Leetcode | Find The Original Array of Prefix Xor | c |
 | 2026-07-08 | Leetcode | Count the Number of Consistent Strings | c |
 | 2026-07-08 | Leetcode | Count the Number of Consistent Strings | c |
+| 2026-07-08 | Leetcode | Count the Number of Consistent Strings | c |
+| 2026-07-08 | Leetcode | Count the Number of Consistent Strings | c |
+| 2026-07-08 | Leetcode | Shuffle the Array | c |
+| 2026-07-08 | Leetcode | Shuffle the Array | c |
+| 2026-07-08 | Leetcode | Reverse Degree of a String | c |
+| 2026-07-08 | Leetcode | Find Most Frequent Vowel and Consonant | c |
+| 2026-07-08 | Leetcode | Reverse String Prefix | c |
 | 2026-07-08 | Leetcode | Minimum Element After Replacement With Digit Sum | c |
 | 2026-07-08 | Leetcode | Left and Right Sum Differences | c |
 | 2026-07-08 | Leetcode | Left and Right Sum Differences | c |

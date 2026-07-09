@@ -4,6 +4,7 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-07-09 | Leetcode | Pascal's Triangle | c |
 | 2026-07-09 | Leetcode | Best Time to Buy and Sell Stock | c |
 | 2026-07-09 | Leetcode | Goal Parser Interpretation | python3 |
 | 2026-07-09 | Leetcode | Goal Parser Interpretation | python3 |

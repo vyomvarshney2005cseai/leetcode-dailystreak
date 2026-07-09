@@ -4,7 +4,7 @@
  * Submission: Try 2
  * status: Accepted
  * Language: c
- * Date: 7/9/2026, 1:20:37 AM
+ * Date: 7/9/2026, 1:19:50 AM
  * Link: https://leetcode.com/problems/count-the-number-of-consistent-strings/
  */
 

@@ -3,7 +3,7 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-88_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-92_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Codeforces-1_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 88 | [ `/LeetCode`](./LeetCode) |
+| **LeetCode** | 92 | [ `/LeetCode`](./LeetCode) |
 | **Codeforces** | 1 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **89** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **93** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -39,8 +39,8 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Difficulty | Solved | Progress Bar |
 | :--- | :---: | :--- |
-| **Easy** | 67 | `[███████░░░]` (73.6%) |
-| **Medium** | 23 | `[███░░░░░░░]` (25.3%) |
+| **Easy** | 68 | `[███████░░░]` (73.9%) |
+| **Medium** | 23 | `[███░░░░░░░]` (25.0%) |
 | **Hard** | 1 | `[░░░░░░░░░░]` (1.1%) |
 
 ## Top LeetCode Topics
@@ -48,8 +48,8 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Topic | Solved |
 | :--- | :--- |
 | Array | 53 |
-| Math | 29 |
-| String | 27 |
+| Math | 30 |
+| String | 28 |
 | Hash Table | 25 |
 | Sorting | 13 |
 | Simulation | 10 |
@@ -92,6 +92,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/) | c | [View Solution](./LeetCode/Easy/2011-final-value-of-variable-after-performing-operations) |
 | LeetCode | [Find Closest Person](https://leetcode.com/problems/find-closest-person/) | c | [View Solution](./LeetCode/Easy/3516-find-closest-person) |
 | LeetCode | [Find Minimum Operations to Make All Elements Divisible by Three](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/) | c | [View Solution](./LeetCode/Unknown/find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| LeetCode | [Find Most Frequent Vowel and Consonant](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/) | c | [View Solution](./LeetCode/Easy/3541-find-most-frequent-vowel-and-consonant) |
 | LeetCode | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | c | [View Solution](./LeetCode/Medium/162-find-peak-element) |
 | LeetCode | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | c | [View Solution](./LeetCode/Easy/389-find-the-difference) |
 | LeetCode | [Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/) | c | [View Solution](./LeetCode/Easy/2769-find-the-maximum-achievable-number) |
@@ -130,11 +131,14 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | c | [View Solution](./LeetCode/Easy/26-remove-duplicates-from-sorted-array) |
 | LeetCode | [Remove Element](https://leetcode.com/problems/remove-element/) | c | [View Solution](./LeetCode/Easy/27-remove-element) |
 | LeetCode | [Restore Finishing Order](https://leetcode.com/problems/restore-finishing-order/) | c | [View Solution](./LeetCode/Easy/3668-restore-finishing-order) |
+| LeetCode | [Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string/) | c | [View Solution](./LeetCode/Unknown/reverse-degree-of-a-string) |
+| LeetCode | [Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix/) | c | [View Solution](./LeetCode/Unknown/reverse-string-prefix) |
 | LeetCode | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | c | [View Solution](./LeetCode/Unknown/richest-customer-wealth) |
 | LeetCode | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | c | [View Solution](./LeetCode/Easy/13-roman-to-integer) |
 | LeetCode | [Rotate Function](https://leetcode.com/problems/rotate-function/) | c | [View Solution](./LeetCode/Medium/396-rotate-function) |
 | LeetCode | [Score of a String](https://leetcode.com/problems/score-of-a-string/) | c | [View Solution](./LeetCode/Easy/3110-score-of-a-string) |
 | LeetCode | [Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string/) | c | [View Solution](./LeetCode/Easy/1796-second-largest-digit-in-a-string) |
+| LeetCode | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | c | [View Solution](./LeetCode/Easy/1470-shuffle-the-array) |
 | LeetCode | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/) | c | [View Solution](./LeetCode/Unknown/smallest-even-multiple) |
 | LeetCode | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | c | [View Solution](./LeetCode/Medium/912-sort-an-array) |
 | LeetCode | [Sort Colors](https://leetcode.com/problems/sort-colors/) | c | [View Solution](./LeetCode/Medium/75-sort-colors) |

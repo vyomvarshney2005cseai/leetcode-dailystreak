@@ -3,7 +3,7 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-95_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-99_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Codeforces-1_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 95 | [ `/LeetCode`](./LeetCode) |
+| **LeetCode** | 99 | [ `/LeetCode`](./LeetCode) |
 | **Codeforces** | 1 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **96** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **100** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -39,23 +39,23 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Difficulty | Solved | Progress Bar |
 | :--- | :---: | :--- |
-| **Easy** | 71 | `[███████░░░]` (74.7%) |
-| **Medium** | 23 | `[██░░░░░░░░]` (24.2%) |
-| **Hard** | 1 | `[░░░░░░░░░░]` (1.1%) |
+| **Easy** | 76 | `[████████░░]` (76.0%) |
+| **Medium** | 23 | `[██░░░░░░░░]` (23.0%) |
+| **Hard** | 1 | `[░░░░░░░░░░]` (1.0%) |
 
 ## Top LeetCode Topics
 
 | Topic | Solved |
 | :--- | :--- |
-| Array | 55 |
+| Array | 59 |
 | Math | 30 |
-| String | 29 |
-| Hash Table | 25 |
-| Sorting | 13 |
+| String | 30 |
+| Hash Table | 27 |
+| Sorting | 15 |
 | Simulation | 10 |
-| Two Pointers | 9 |
+| Two Pointers | 10 |
+| Dynamic Programming | 5 |
 | Bit Manipulation | 5 |
-| Dynamic Programming | 4 |
 | Divide and Conquer | 4 |
 
 
@@ -80,6 +80,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Count Commas in Range](https://leetcode.com/problems/count-commas-in-range/) | c | [View Solution](./LeetCode/Easy/3870-count-commas-in-range) |
 | LeetCode | [Count Commas in Range II](https://leetcode.com/problems/count-commas-in-range-ii/) | c | [View Solution](./LeetCode/Medium/3871-count-commas-in-range-ii) |
 | LeetCode | [Count Digit Appearances](https://leetcode.com/problems/count-digit-appearances/) | c | [View Solution](./LeetCode/Medium/3895-count-digit-appearances) |
+| LeetCode | [Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/) | c | [View Solution](./LeetCode/Unknown/count-pairs-whose-sum-is-less-than-target) |
 | LeetCode | [Count Primes](https://leetcode.com/problems/count-primes/) | c | [View Solution](./LeetCode/Medium/204-count-primes) |
 | LeetCode | [Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number/) | c | [View Solution](./LeetCode/Unknown/count-the-digits-that-divide-a-number) |
 | LeetCode | [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/) | c | [View Solution](./LeetCode/Easy/1684-count-the-number-of-consistent-strings) |
@@ -103,8 +104,10 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | c | [View Solution](./LeetCode/Easy/387-first-unique-character-in-a-string) |
 | LeetCode | [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/) | python3 | [View Solution](./LeetCode/Easy/1678-goal-parser-interpretation) |
 | LeetCode | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | c | [View Solution](./LeetCode/Medium/49-group-anagrams) |
+| LeetCode | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | c | [View Solution](./LeetCode/Easy/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | LeetCode | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | c | [View Solution](./LeetCode/Easy/392-is-subsequence) |
 | LeetCode | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | c | [View Solution](./LeetCode/Easy/771-jewels-and-stones) |
+| LeetCode | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | c | [View Solution](./LeetCode/Easy/1431-kids-with-the-greatest-number-of-candies) |
 | LeetCode | [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/) | c | [View Solution](./LeetCode/Easy/2574-left-and-right-sum-differences) |
 | LeetCode | [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/) | c | [View Solution](./LeetCode/Medium/386-lexicographical-numbers) |
 | LeetCode | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | c | [View Solution](./LeetCode/Easy/14-longest-common-prefix) |
@@ -130,6 +133,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/) | c | [View Solution](./LeetCode/Unknown/partition-array-according-to-given-pivot) |
 | LeetCode | [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/) | c | [View Solution](./LeetCode/Unknown/partitioning-into-minimum-number-of-deci-binary-numbers) |
 | LeetCode | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | c | [View Solution](./LeetCode/Easy/118-pascals-triangle) |
+| LeetCode | [Permutation Difference between Two Strings](https://leetcode.com/problems/permutation-difference-between-two-strings/) | c | [View Solution](./LeetCode/Easy/3146-permutation-difference-between-two-strings) |
 | LeetCode | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | c | [View Solution](./LeetCode/Medium/238-product-of-array-except-self) |
 | LeetCode | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | c | [View Solution](./LeetCode/Easy/26-remove-duplicates-from-sorted-array) |
 | LeetCode | [Remove Element](https://leetcode.com/problems/remove-element/) | c | [View Solution](./LeetCode/Easy/27-remove-element) |

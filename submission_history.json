@@ -1,5 +1,29 @@
 [
   {
+    "id": "2061918336",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1783612162000,
+    "title": "How Many Numbers Are Smaller Than the Current Number",
+    "titleSlug": "how-many-numbers-are-smaller-than-the-current-number"
+  },
+  {
+    "id": "2061831561",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1783607406000,
+    "title": "Count Pairs Whose Sum is Less than Target",
+    "titleSlug": "count-pairs-whose-sum-is-less-than-target"
+  },
+  {
+    "id": "2061746855",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1783602512000,
+    "title": "Pascal's Triangle",
+    "titleSlug": "pascals-triangle"
+  },
+  {
     "id": "2061296673",
     "lang": "c",
     "statusDisplay": "Accepted",
@@ -1171,10 +1195,42 @@
     "titleSlug": "palindrome-number"
   },
   {
-    "id": "2061746855",
-    "title": "Pascal's Triangle",
-    "titleSlug": "pascals-triangle",
-    "timestamp": 1783602512000,
+    "id": "2061919456",
+    "title": "How Many Numbers Are Smaller Than the Current Number",
+    "titleSlug": "how-many-numbers-are-smaller-than-the-current-number",
+    "timestamp": 1783612220000,
+    "lang": "c",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2061766736",
+    "title": "Permutation Difference between Two Strings",
+    "titleSlug": "permutation-difference-between-two-strings",
+    "timestamp": 1783603682000,
+    "lang": "c",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2061297283",
+    "title": "Best Time to Buy and Sell Stock",
+    "titleSlug": "best-time-to-buy-and-sell-stock",
+    "timestamp": 1783575764000,
+    "lang": "c",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2061296987",
+    "title": "Best Time to Buy and Sell Stock",
+    "titleSlug": "best-time-to-buy-and-sell-stock",
+    "timestamp": 1783575748000,
+    "lang": "c",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2061279368",
+    "title": "Kids With the Greatest Number of Candies",
+    "titleSlug": "kids-with-the-greatest-number-of-candies",
+    "timestamp": 1783574761000,
     "lang": "c",
     "statusDisplay": "Accepted"
   }

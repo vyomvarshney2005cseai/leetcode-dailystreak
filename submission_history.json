@@ -1161,5 +1161,13 @@
     "timestamp": 1762632585000,
     "title": "Palindrome Number",
     "titleSlug": "palindrome-number"
+  },
+  {
+    "id": "2061296673",
+    "title": "Best Time to Buy and Sell Stock",
+    "titleSlug": "best-time-to-buy-and-sell-stock",
+    "timestamp": 1783575732000,
+    "lang": "c",
+    "statusDisplay": "Accepted"
   }
 ]

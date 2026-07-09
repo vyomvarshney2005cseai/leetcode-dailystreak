@@ -1,5 +1,13 @@
 [
   {
+    "id": "2061235855",
+    "lang": "python3",
+    "statusDisplay": "Accepted",
+    "timestamp": 1783572353000,
+    "title": "Convert Date to Binary",
+    "titleSlug": "convert-date-to-binary"
+  },
+  {
     "id": "2061014045",
     "lang": "c",
     "statusDisplay": "Accepted",
@@ -1011,11 +1019,91 @@
     "titleSlug": "palindrome-number"
   },
   {
-    "id": "2061235855",
-    "title": "Convert Date to Binary",
-    "titleSlug": "convert-date-to-binary",
-    "timestamp": 1783572353000,
-    "lang": "python3",
+    "id": "2061238147",
+    "title": "Find the Prefix Common Array of Two Arrays",
+    "titleSlug": "find-the-prefix-common-array-of-two-arrays",
+    "timestamp": 1783572485000,
+    "lang": "c",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2061237693",
+    "title": "Find the Prefix Common Array of Two Arrays",
+    "titleSlug": "find-the-prefix-common-array-of-two-arrays",
+    "timestamp": 1783572459000,
+    "lang": "c",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2061014225",
+    "title": "Find the Prefix Common Array of Two Arrays",
+    "titleSlug": "find-the-prefix-common-array-of-two-arrays",
+    "timestamp": 1783542412000,
+    "lang": "c",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2061003593",
+    "title": "Find The Original Array of Prefix Xor",
+    "titleSlug": "find-the-original-array-of-prefix-xor",
+    "timestamp": 1783541320000,
+    "lang": "c",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2060992357",
+    "title": "Count the Number of Consistent Strings",
+    "titleSlug": "count-the-number-of-consistent-strings",
+    "timestamp": 1783540253000,
+    "lang": "c",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2060991662",
+    "title": "Count the Number of Consistent Strings",
+    "titleSlug": "count-the-number-of-consistent-strings",
+    "timestamp": 1783540190000,
+    "lang": "c",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2060974720",
+    "title": "Shuffle the Array",
+    "titleSlug": "shuffle-the-array",
+    "timestamp": 1783538773000,
+    "lang": "c",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2060974128",
+    "title": "Shuffle the Array",
+    "titleSlug": "shuffle-the-array",
+    "timestamp": 1783538726000,
+    "lang": "c",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2060967673",
+    "title": "Reverse Degree of a String",
+    "titleSlug": "reverse-degree-of-a-string",
+    "timestamp": 1783538223000,
+    "lang": "c",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2060963762",
+    "title": "Find Most Frequent Vowel and Consonant",
+    "titleSlug": "find-most-frequent-vowel-and-consonant",
+    "timestamp": 1783537941000,
+    "lang": "c",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2060936270",
+    "title": "Reverse String Prefix",
+    "titleSlug": "reverse-string-prefix",
+    "timestamp": 1783536172000,
+    "lang": "c",
     "statusDisplay": "Accepted"
   }
 ]

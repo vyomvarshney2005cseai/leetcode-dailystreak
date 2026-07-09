@@ -3,7 +3,7 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-87_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-88_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Codeforces-1_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 87 | [ `/LeetCode`](./LeetCode) |
+| **LeetCode** | 88 | [ `/LeetCode`](./LeetCode) |
 | **Codeforces** | 1 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **88** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **89** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -39,23 +39,23 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Difficulty | Solved | Progress Bar |
 | :--- | :---: | :--- |
-| **Easy** | 67 | `[███████░░░]` (74.4%) |
-| **Medium** | 22 | `[██░░░░░░░░]` (24.4%) |
+| **Easy** | 67 | `[███████░░░]` (73.6%) |
+| **Medium** | 23 | `[███░░░░░░░]` (25.3%) |
 | **Hard** | 1 | `[░░░░░░░░░░]` (1.1%) |
 
 ## Top LeetCode Topics
 
 | Topic | Solved |
 | :--- | :--- |
-| Array | 52 |
+| Array | 53 |
 | Math | 29 |
 | String | 27 |
-| Hash Table | 24 |
+| Hash Table | 25 |
 | Sorting | 13 |
 | Simulation | 10 |
 | Two Pointers | 9 |
+| Bit Manipulation | 5 |
 | Divide and Conquer | 4 |
-| Bit Manipulation | 4 |
 | Dynamic Programming | 3 |
 
 
@@ -73,6 +73,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Concatenate Array With Reverse](https://leetcode.com/problems/concatenate-array-with-reverse/) | c | [View Solution](./LeetCode/Easy/3925-concatenate-array-with-reverse) |
 | LeetCode | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | c | [View Solution](./LeetCode/Unknown/concatenation-of-array) |
 | LeetCode | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | c | [View Solution](./LeetCode/Easy/217-contains-duplicate) |
+| LeetCode | [Convert Date to Binary](https://leetcode.com/problems/convert-date-to-binary/) | python3 | [View Solution](./LeetCode/Easy/3280-convert-date-to-binary) |
 | LeetCode | [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/) | c | [View Solution](./LeetCode/Unknown/convert-the-temperature) |
 | LeetCode | [Count Asterisks](https://leetcode.com/problems/count-asterisks/) | c | [View Solution](./LeetCode/Unknown/count-asterisks) |
 | LeetCode | [Count Commas in Range](https://leetcode.com/problems/count-commas-in-range/) | c | [View Solution](./LeetCode/Easy/3870-count-commas-in-range) |

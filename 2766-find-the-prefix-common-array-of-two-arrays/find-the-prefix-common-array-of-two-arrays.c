@@ -12,8 +12,6 @@ int* findThePrefixCommonArray(int* A, int ASize, int* B, int BSize, int* returnS
         if (hash[A[i]] == 2) {
             common_count++;
         }
-
-
         hash[B[i]]++;
         if (hash[B[i]] == 2) {
             common_count++;

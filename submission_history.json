@@ -1,5 +1,13 @@
 [
   {
+    "id": "2061252738",
+    "lang": "python3",
+    "statusDisplay": "Accepted",
+    "timestamp": 1783573290000,
+    "title": "Goal Parser Interpretation",
+    "titleSlug": "goal-parser-interpretation"
+  },
+  {
     "id": "2061238147",
     "lang": "c",
     "statusDisplay": "Accepted",
@@ -1107,10 +1115,10 @@
     "titleSlug": "palindrome-number"
   },
   {
-    "id": "2061252738",
+    "id": "2061253252",
     "title": "Goal Parser Interpretation",
     "titleSlug": "goal-parser-interpretation",
-    "timestamp": 1783573290000,
+    "timestamp": 1783573319000,
     "lang": "python3",
     "statusDisplay": "Accepted"
   }

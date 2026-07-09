@@ -3,7 +3,7 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-99_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-100_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Codeforces-1_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 99 | [ `/LeetCode`](./LeetCode) |
+| **LeetCode** | 100 | [ `/LeetCode`](./LeetCode) |
 | **Codeforces** | 1 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **100** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **101** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -80,7 +80,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Count Commas in Range](https://leetcode.com/problems/count-commas-in-range/) | c | [View Solution](./LeetCode/Easy/3870-count-commas-in-range) |
 | LeetCode | [Count Commas in Range II](https://leetcode.com/problems/count-commas-in-range-ii/) | c | [View Solution](./LeetCode/Medium/3871-count-commas-in-range-ii) |
 | LeetCode | [Count Digit Appearances](https://leetcode.com/problems/count-digit-appearances/) | c | [View Solution](./LeetCode/Medium/3895-count-digit-appearances) |
-| LeetCode | [Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/) | c | [View Solution](./LeetCode/Unknown/count-pairs-whose-sum-is-less-than-target) |
+| LeetCode | [Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/) | c | [View Solution](./LeetCode/Easy/2824-count-pairs-whose-sum-is-less-than-target) |
 | LeetCode | [Count Primes](https://leetcode.com/problems/count-primes/) | c | [View Solution](./LeetCode/Medium/204-count-primes) |
 | LeetCode | [Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number/) | c | [View Solution](./LeetCode/Unknown/count-the-digits-that-divide-a-number) |
 | LeetCode | [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/) | c | [View Solution](./LeetCode/Easy/1684-count-the-number-of-consistent-strings) |
@@ -93,6 +93,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Elimination Game](https://leetcode.com/problems/elimination-game/) | c | [View Solution](./LeetCode/Unknown/elimination-game) |
 | LeetCode | [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/) | c | [View Solution](./LeetCode/Easy/2011-final-value-of-variable-after-performing-operations) |
 | LeetCode | [Find Closest Person](https://leetcode.com/problems/find-closest-person/) | c | [View Solution](./LeetCode/Easy/3516-find-closest-person) |
+| LeetCode | [Find Indices of Stable Mountains](https://leetcode.com/problems/find-indices-of-stable-mountains/) | c | [View Solution](./LeetCode/Easy/3285-find-indices-of-stable-mountains) |
 | LeetCode | [Find Minimum Operations to Make All Elements Divisible by Three](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/) | c | [View Solution](./LeetCode/Unknown/find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | LeetCode | [Find Most Frequent Vowel and Consonant](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/) | c | [View Solution](./LeetCode/Easy/3541-find-most-frequent-vowel-and-consonant) |
 | LeetCode | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | c | [View Solution](./LeetCode/Medium/162-find-peak-element) |

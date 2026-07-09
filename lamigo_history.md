@@ -4,6 +4,8 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-07-09 | Leetcode | Find Indices of Stable Mountains | c |
+| 2026-07-09 | Leetcode | Find Indices of Stable Mountains | c |
 | 2026-07-09 | Leetcode | How Many Numbers Are Smaller Than the Current Number | c |
 | 2026-07-09 | Leetcode | How Many Numbers Are Smaller Than the Current Number | c |
 | 2026-07-09 | Leetcode | Count Pairs Whose Sum is Less than Target | c |

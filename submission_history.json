@@ -1,5 +1,13 @@
 [
   {
+    "id": "2061296673",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1783575732000,
+    "title": "Best Time to Buy and Sell Stock",
+    "titleSlug": "best-time-to-buy-and-sell-stock"
+  },
+  {
     "id": "2061257217",
     "lang": "python3",
     "statusDisplay": "Accepted",
@@ -1163,10 +1171,10 @@
     "titleSlug": "palindrome-number"
   },
   {
-    "id": "2061296673",
-    "title": "Best Time to Buy and Sell Stock",
-    "titleSlug": "best-time-to-buy-and-sell-stock",
-    "timestamp": 1783575732000,
+    "id": "2061746855",
+    "title": "Pascal's Triangle",
+    "titleSlug": "pascals-triangle",
+    "timestamp": 1783602512000,
     "lang": "c",
     "statusDisplay": "Accepted"
   }

@@ -6,8 +6,16 @@ A complete history of all accepted submissions synced by L'Amigo.
 | :--- | :--- | :--- | :--- |
 | 2026-07-10 | Leetcode | Reverse Integer | c |
 | 2026-07-10 | Leetcode | Reverse Integer | c |
+| 2026-07-10 | Leetcode | Reverse Integer | c |
+| 2026-07-10 | Leetcode | Valid Perfect Square | c |
+| 2026-07-10 | Leetcode | Valid Perfect Square | python3 |
+| 2026-07-10 | Leetcode | Valid Perfect Square | python3 |
 | 2026-07-10 | Leetcode | Valid Perfect Square | python3 |
 | 2026-07-10 | Leetcode | Valid Sudoku | c |
+| 2026-07-09 | Leetcode | Max Consecutive Ones | c |
+| 2026-07-09 | Leetcode | Max Consecutive Ones | c |
+| 2026-07-09 | Leetcode | Max Consecutive Ones | c |
+| 2026-07-09 | Leetcode | Max Consecutive Ones | c |
 | 2026-07-09 | Leetcode | Max Consecutive Ones | c |
 | 2026-07-09 | Leetcode | Find Indices of Stable Mountains | c |
 | 2026-07-09 | Leetcode | Find Indices of Stable Mountains | c |

@@ -39,8 +39,8 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Difficulty | Solved | Progress Bar |
 | :--- | :---: | :--- |
-| **Easy** | 78 | `[████████░░]` (75.7%) |
-| **Medium** | 24 | `[██░░░░░░░░]` (23.3%) |
+| **Easy** | 78 | `[████████░░]` (75.0%) |
+| **Medium** | 25 | `[██░░░░░░░░]` (24.0%) |
 | **Hard** | 1 | `[░░░░░░░░░░]` (1.0%) |
 
 ## Top LeetCode Topics
@@ -48,7 +48,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Topic | Solved |
 | :--- | :--- |
 | Array | 61 |
-| Math | 31 |
+| Math | 32 |
 | String | 30 |
 | Hash Table | 28 |
 | Sorting | 15 |
@@ -163,7 +163,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Two Sum](https://leetcode.com/problems/two-sum/) | c | [View Solution](./LeetCode/Easy/1-two-sum) |
 | LeetCode | [Type of Triangle](https://leetcode.com/problems/type-of-triangle/) | c | [View Solution](./LeetCode/Easy/3024-type-of-triangle) |
 | LeetCode | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | c | [View Solution](./LeetCode/Easy/242-valid-anagram) |
-| LeetCode | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | python3 | [View Solution](./LeetCode/Unknown/valid-perfect-square) |
+| LeetCode | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | c | [View Solution](./LeetCode/Easy/367-valid-perfect-square) |
 | LeetCode | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | c | [View Solution](./LeetCode/Medium/36-valid-sudoku) |
 | Codeforces | [Watermelon](https://codeforces.com/contest/4/problem/A) | GNU C11 | [View Solution](./Codeforces/4/A) |
 | LeetCode | [Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping/) | c | [View Solution](./LeetCode/Easy/3838-weighted-word-mapping) |

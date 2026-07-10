@@ -1,5 +1,21 @@
 [
   {
+    "id": "2062437618",
+    "lang": "python3",
+    "statusDisplay": "Accepted",
+    "timestamp": 1783660639000,
+    "title": "Valid Perfect Square",
+    "titleSlug": "valid-perfect-square"
+  },
+  {
+    "id": "2062429886",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1783660158000,
+    "title": "Valid Sudoku",
+    "titleSlug": "valid-sudoku"
+  },
+  {
     "id": "2062146763",
     "lang": "c",
     "statusDisplay": "Accepted",
@@ -1259,10 +1275,18 @@
     "titleSlug": "palindrome-number"
   },
   {
-    "id": "2062429886",
-    "title": "Valid Sudoku",
-    "titleSlug": "valid-sudoku",
-    "timestamp": 1783660158000,
+    "id": "2063160395",
+    "title": "Reverse Integer",
+    "titleSlug": "reverse-integer",
+    "timestamp": 1783705519000,
+    "lang": "c",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2063160133",
+    "title": "Reverse Integer",
+    "titleSlug": "reverse-integer",
+    "timestamp": 1783705506000,
     "lang": "c",
     "statusDisplay": "Accepted"
   }

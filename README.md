@@ -3,7 +3,7 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-102_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-104_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Codeforces-1_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 102 | [ `/LeetCode`](./LeetCode) |
+| **LeetCode** | 104 | [ `/LeetCode`](./LeetCode) |
 | **Codeforces** | 1 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **103** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **105** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -39,18 +39,18 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Difficulty | Solved | Progress Bar |
 | :--- | :---: | :--- |
-| **Easy** | 77 | `[████████░░]` (76.2%) |
-| **Medium** | 23 | `[██░░░░░░░░]` (22.8%) |
+| **Easy** | 78 | `[████████░░]` (75.7%) |
+| **Medium** | 24 | `[██░░░░░░░░]` (23.3%) |
 | **Hard** | 1 | `[░░░░░░░░░░]` (1.0%) |
 
 ## Top LeetCode Topics
 
 | Topic | Solved |
 | :--- | :--- |
-| Array | 60 |
-| Math | 30 |
+| Array | 61 |
+| Math | 31 |
 | String | 30 |
-| Hash Table | 27 |
+| Hash Table | 28 |
 | Sorting | 15 |
 | Simulation | 10 |
 | Two Pointers | 10 |
@@ -141,6 +141,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Remove Element](https://leetcode.com/problems/remove-element/) | c | [View Solution](./LeetCode/Easy/27-remove-element) |
 | LeetCode | [Restore Finishing Order](https://leetcode.com/problems/restore-finishing-order/) | c | [View Solution](./LeetCode/Easy/3668-restore-finishing-order) |
 | LeetCode | [Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string/) | c | [View Solution](./LeetCode/Unknown/reverse-degree-of-a-string) |
+| LeetCode | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | c | [View Solution](./LeetCode/Medium/7-reverse-integer) |
 | LeetCode | [Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix/) | c | [View Solution](./LeetCode/Unknown/reverse-string-prefix) |
 | LeetCode | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | c | [View Solution](./LeetCode/Unknown/richest-customer-wealth) |
 | LeetCode | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | c | [View Solution](./LeetCode/Easy/13-roman-to-integer) |
@@ -162,6 +163,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Two Sum](https://leetcode.com/problems/two-sum/) | c | [View Solution](./LeetCode/Easy/1-two-sum) |
 | LeetCode | [Type of Triangle](https://leetcode.com/problems/type-of-triangle/) | c | [View Solution](./LeetCode/Easy/3024-type-of-triangle) |
 | LeetCode | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | c | [View Solution](./LeetCode/Easy/242-valid-anagram) |
+| LeetCode | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | python3 | [View Solution](./LeetCode/Unknown/valid-perfect-square) |
 | LeetCode | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | c | [View Solution](./LeetCode/Medium/36-valid-sudoku) |
 | Codeforces | [Watermelon](https://codeforces.com/contest/4/problem/A) | GNU C11 | [View Solution](./Codeforces/4/A) |
 | LeetCode | [Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping/) | c | [View Solution](./LeetCode/Easy/3838-weighted-word-mapping) |

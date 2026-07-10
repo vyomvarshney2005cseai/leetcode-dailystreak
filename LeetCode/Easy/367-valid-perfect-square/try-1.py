@@ -4,7 +4,7 @@
  * Submission: Try 1
  * status: Accepted
  * Language: python3
- * Date: 7/10/2026, 10:47:19 AM
+ * Date: 7/10/2026, 10:47:01 AM
  * Link: https://leetcode.com/problems/valid-perfect-square/
  */
 

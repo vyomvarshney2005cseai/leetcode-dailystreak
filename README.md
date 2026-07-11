@@ -3,7 +3,7 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-104_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-105_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Codeforces-1_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 104 | [ `/LeetCode`](./LeetCode) |
+| **LeetCode** | 105 | [ `/LeetCode`](./LeetCode) |
 | **Codeforces** | 1 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **105** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **106** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -102,6 +102,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Find The Original Array of Prefix Xor](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/) | c | [View Solution](./LeetCode/Medium/2433-find-the-original-array-of-prefix-xor) |
 | LeetCode | [Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/) | c | [View Solution](./LeetCode/Medium/2657-find-the-prefix-common-array-of-two-arrays) |
 | LeetCode | [Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/) | c | [View Solution](./LeetCode/Easy/2942-find-words-containing-character) |
+| LeetCode | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | c | [View Solution](./LeetCode/Hard/41-first-missing-positive) |
 | LeetCode | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | c | [View Solution](./LeetCode/Easy/387-first-unique-character-in-a-string) |
 | LeetCode | [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/) | python3 | [View Solution](./LeetCode/Easy/1678-goal-parser-interpretation) |
 | LeetCode | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | c | [View Solution](./LeetCode/Medium/49-group-anagrams) |

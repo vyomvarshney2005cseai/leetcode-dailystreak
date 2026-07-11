@@ -11,7 +11,6 @@ int firstMissingPositive(int* nums, int numsSize)
             nums[temp - 1] = temp;
         }
     }
-
     for (int i = 0; i < numsSize; i++)
     {
         if (nums[i] != i + 1)

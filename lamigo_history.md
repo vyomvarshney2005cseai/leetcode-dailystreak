@@ -4,10 +4,15 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-07-13 | Leetcode | Number of Elapsed Seconds Between Two Times | c |
 | 2026-07-12 | Leetcode | Binary Search | c |
 | 2026-07-11 | Leetcode | Two Sum | c |
 | 2026-07-11 | Leetcode | Two Sum | c |
 | 2026-07-11 | Leetcode | Two Sum | c |
+| 2026-07-11 | Leetcode | First Missing Positive | c |
+| 2026-07-11 | Leetcode | First Missing Positive | c |
+| 2026-07-11 | Leetcode | First Missing Positive | c |
+| 2026-07-11 | Leetcode | First Missing Positive | c |
 | 2026-07-11 | Leetcode | First Missing Positive | c |
 | 2026-07-11 | Leetcode | First Missing Positive | c |
 | 2026-07-11 | Leetcode | First Missing Positive | c |

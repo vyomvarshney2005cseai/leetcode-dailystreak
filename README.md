@@ -3,7 +3,7 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-107_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-108_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Codeforces-1_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 107 | [ `/LeetCode`](./LeetCode) |
+| **LeetCode** | 108 | [ `/LeetCode`](./LeetCode) |
 | **Codeforces** | 1 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **108** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **109** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -145,6 +145,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Restore Finishing Order](https://leetcode.com/problems/restore-finishing-order/) | c | [View Solution](./LeetCode/Easy/3668-restore-finishing-order) |
 | LeetCode | [Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string/) | c | [View Solution](./LeetCode/Unknown/reverse-degree-of-a-string) |
 | LeetCode | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | c | [View Solution](./LeetCode/Medium/7-reverse-integer) |
+| LeetCode | [Reverse String](https://leetcode.com/problems/reverse-string/) | c | [View Solution](./LeetCode/Easy/344-reverse-string) |
 | LeetCode | [Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix/) | c | [View Solution](./LeetCode/Unknown/reverse-string-prefix) |
 | LeetCode | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | c | [View Solution](./LeetCode/Unknown/richest-customer-wealth) |
 | LeetCode | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | c | [View Solution](./LeetCode/Easy/13-roman-to-integer) |

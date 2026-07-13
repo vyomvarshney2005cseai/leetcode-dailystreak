@@ -3,7 +3,7 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-106_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-107_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Codeforces-1_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 106 | [ `/LeetCode`](./LeetCode) |
+| **LeetCode** | 107 | [ `/LeetCode`](./LeetCode) |
 | **Codeforces** | 1 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **107** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **108** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -39,15 +39,15 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Difficulty | Solved | Progress Bar |
 | :--- | :---: | :--- |
-| **Easy** | 78 | `[███████░░░]` (74.3%) |
-| **Medium** | 25 | `[██░░░░░░░░]` (23.8%) |
+| **Easy** | 79 | `[███████░░░]` (74.5%) |
+| **Medium** | 25 | `[██░░░░░░░░]` (23.6%) |
 | **Hard** | 2 | `[░░░░░░░░░░]` (1.9%) |
 
 ## Top LeetCode Topics
 
 | Topic | Solved |
 | :--- | :--- |
-| Array | 62 |
+| Array | 63 |
 | Math | 32 |
 | String | 30 |
 | Hash Table | 29 |
@@ -131,6 +131,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | c | [View Solution](./LeetCode/Easy/283-move-zeroes) |
 | LeetCode | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | c | [View Solution](./LeetCode/Easy/496-next-greater-element-i) |
 | LeetCode | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | c | [View Solution](./LeetCode/Medium/503-next-greater-element-ii) |
+| LeetCode | [Number of Elapsed Seconds Between Two Times](https://leetcode.com/problems/number-of-elapsed-seconds-between-two-times/) | c | [View Solution](./LeetCode/Easy/3986-number-of-elapsed-seconds-between-two-times) |
 | LeetCode | [Number of Employees Who Met the Target](https://leetcode.com/problems/number-of-employees-who-met-the-target/) | c | [View Solution](./LeetCode/Easy/2798-number-of-employees-who-met-the-target) |
 | LeetCode | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | c | [View Solution](./LeetCode/Easy/1512-number-of-good-pairs) |
 | LeetCode | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | cpp | [View Solution](./LeetCode/Unknown/palindrome-number) |

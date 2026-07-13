@@ -4,31 +4,55 @@
  * Submission: Try 2
  * status: Accepted
  * Language: c
- * Date: 7/11/2026, 11:45:54 AM
+ * Date: 7/11/2026, 11:44:31 AM
  * Link: https://leetcode.com/problems/first-missing-positive/
  */
 
-int firstMissingPositive(int* nums, int numsSize)
-{
-    for (int i = 0; i < numsSize; i++)
-    {
-        while (nums[i] >= 1 &&
-               nums[i] <= numsSize &&
-               nums[i] != nums[nums[i] - 1])
-        {
-            int temp = nums[i];
-            nums[i] = nums[temp - 1];
-            nums[temp - 1] = temp;
-        }
-    }
 
-    for (int i = 0; i < numsSize; i++)
-    {
-        if (nums[i] != i + 1)
-        {
-            return i + 1;
-        }
-    }
-
-    return numsSize + 1;
+#include <limits.h>
+int cmpc(const void* a,const void* b){
+    int arg1=*(const int*)a;
+    int arg2=*(const int*)b;
+    if(arg1<arg2) return -1;
+    if(arg1>arg2) return 1;
+    return 0;
 }
+int firstMissingPositive(int* nums, int numsSize) {
+    int min=INT_MAX;
+    int ans;
+    int max=1;
+
+    for (int i = 0; i < numsSize; i++){
+        if(nums[i]<1){
+            nums[i]=INT_MAX;
+        }
+        else{
+            if(nums[i]<min){
+                min=nums[i];
+            }
+            if(nums[i]>max){
+                max=nums[i];
+            }
+           
+        }
+    }
+    if(min-1>0){
+        return 1;
+    }
+    else if (min-1==0)
+    {
+        qsort(nums,numsSize,sizeof(int),cmpc);
+        for(int i=0;i<numsSize-1;i++){
+            if(nums[i]==nums[i+1]){
+                continue;
+            }
+            else if(nums[i]+1!=nums[i+1]){
+                return nums[i]+1;
+            }
+        }
+    }
+    return max+1;
+}
+
+
+

@@ -3,7 +3,7 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-105_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-106_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Codeforces-1_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 105 | [ `/LeetCode`](./LeetCode) |
+| **LeetCode** | 106 | [ `/LeetCode`](./LeetCode) |
 | **Codeforces** | 1 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **106** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **107** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -39,18 +39,18 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Difficulty | Solved | Progress Bar |
 | :--- | :---: | :--- |
-| **Easy** | 78 | `[████████░░]` (75.0%) |
-| **Medium** | 25 | `[██░░░░░░░░]` (24.0%) |
-| **Hard** | 1 | `[░░░░░░░░░░]` (1.0%) |
+| **Easy** | 78 | `[███████░░░]` (74.3%) |
+| **Medium** | 25 | `[██░░░░░░░░]` (23.8%) |
+| **Hard** | 2 | `[░░░░░░░░░░]` (1.9%) |
 
 ## Top LeetCode Topics
 
 | Topic | Solved |
 | :--- | :--- |
-| Array | 61 |
+| Array | 62 |
 | Math | 32 |
 | String | 30 |
-| Hash Table | 28 |
+| Hash Table | 29 |
 | Sorting | 15 |
 | Simulation | 10 |
 | Two Pointers | 10 |
@@ -66,6 +66,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Add Digits](https://leetcode.com/problems/add-digits/) | c | [View Solution](./LeetCode/Easy/258-add-digits) |
 | LeetCode | [Add Two Integers](https://leetcode.com/problems/add-two-integers/) | c | [View Solution](./LeetCode/Easy/2235-add-two-integers) |
 | LeetCode | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | c | [View Solution](./LeetCode/Easy/121-best-time-to-buy-and-sell-stock) |
+| LeetCode | [Binary Search](https://leetcode.com/problems/binary-search/) | c | [View Solution](./LeetCode/Easy/704-binary-search) |
 | LeetCode | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) | c | [View Solution](./LeetCode/Easy/1920-build-array-from-permutation) |
 | LeetCode | [Check Good Integer](https://leetcode.com/problems/check-good-integer/) | c | [View Solution](./LeetCode/Unknown/check-good-integer) |
 | LeetCode | [Check if a String Is an Acronym of Words](https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words/) | c | [View Solution](./LeetCode/Unknown/check-if-a-string-is-an-acronym-of-words) |

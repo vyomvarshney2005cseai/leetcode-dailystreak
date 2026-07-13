@@ -4,6 +4,7 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-07-12 | Leetcode | Binary Search | c |
 | 2026-07-11 | Leetcode | Two Sum | c |
 | 2026-07-11 | Leetcode | Two Sum | c |
 | 2026-07-11 | Leetcode | Two Sum | c |

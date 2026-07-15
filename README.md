@@ -39,17 +39,17 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Difficulty | Solved | Progress Bar |
 | :--- | :---: | :--- |
-| **Easy** | 83 | `[███████░░░]` (74.8%) |
-| **Medium** | 26 | `[██░░░░░░░░]` (23.4%) |
+| **Easy** | 83 | `[███████░░░]` (74.1%) |
+| **Medium** | 27 | `[██░░░░░░░░]` (24.1%) |
 | **Hard** | 2 | `[░░░░░░░░░░]` (1.8%) |
 
 ## Top LeetCode Topics
 
 | Topic | Solved |
 | :--- | :--- |
-| Array | 64 |
-| Math | 33 |
-| String | 33 |
+| Array | 65 |
+| Math | 34 |
+| String | 34 |
 | Hash Table | 30 |
 | Sorting | 15 |
 | Two Pointers | 12 |

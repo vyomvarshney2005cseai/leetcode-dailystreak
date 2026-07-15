@@ -1,5 +1,13 @@
 [
   {
+    "id": "2068736074",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1784126675000,
+    "title": "Number of Laser Beams in a Bank",
+    "titleSlug": "number-of-laser-beams-in-a-bank"
+  },
+  {
     "id": "2068732668",
     "lang": "c",
     "statusDisplay": "Accepted",
@@ -1499,10 +1507,42 @@
     "titleSlug": "palindrome-number"
   },
   {
-    "id": "2068736074",
+    "id": "2068742176",
+    "title": "Excel Sheet Column Title",
+    "titleSlug": "excel-sheet-column-title",
+    "timestamp": 1784127005000,
+    "lang": "c",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2068740430",
     "title": "Number of Laser Beams in a Bank",
     "titleSlug": "number-of-laser-beams-in-a-bank",
-    "timestamp": 1784126675000,
+    "timestamp": 1784126914000,
+    "lang": "c",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2068739989",
+    "title": "Number of Laser Beams in a Bank",
+    "titleSlug": "number-of-laser-beams-in-a-bank",
+    "timestamp": 1784126888000,
+    "lang": "c",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2068739525",
+    "title": "Number of Laser Beams in a Bank",
+    "titleSlug": "number-of-laser-beams-in-a-bank",
+    "timestamp": 1784126864000,
+    "lang": "c",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2068739247",
+    "title": "Number of Laser Beams in a Bank",
+    "titleSlug": "number-of-laser-beams-in-a-bank",
+    "timestamp": 1784126850000,
     "lang": "c",
     "statusDisplay": "Accepted"
   }

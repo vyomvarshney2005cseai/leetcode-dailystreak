@@ -4,6 +4,7 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-07-15 | Leetcode | Excel Sheet Column Title | c |
 | 2026-07-14 | Leetcode | Valid Palindrome | c |
 | 2026-07-14 | Leetcode | Set Matrix Zeroes | c |
 | 2026-07-13 | Leetcode | Reverse String | c |

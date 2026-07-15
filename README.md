@@ -3,7 +3,7 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-110_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-111_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Codeforces-1_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 110 | [ `/LeetCode`](./LeetCode) |
+| **LeetCode** | 111 | [ `/LeetCode`](./LeetCode) |
 | **Codeforces** | 1 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **111** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **112** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -92,6 +92,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Digit Frequency Score](https://leetcode.com/problems/digit-frequency-score/) | c | [View Solution](./LeetCode/Easy/3945-digit-frequency-score) |
 | LeetCode | [Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/) | c | [View Solution](./LeetCode/Easy/2894-divisible-and-non-divisible-sums-difference) |
 | LeetCode | [Elimination Game](https://leetcode.com/problems/elimination-game/) | c | [View Solution](./LeetCode/Unknown/elimination-game) |
+| LeetCode | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | c | [View Solution](./LeetCode/Easy/168-excel-sheet-column-title) |
 | LeetCode | [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/) | c | [View Solution](./LeetCode/Easy/2011-final-value-of-variable-after-performing-operations) |
 | LeetCode | [Find Closest Person](https://leetcode.com/problems/find-closest-person/) | c | [View Solution](./LeetCode/Easy/3516-find-closest-person) |
 | LeetCode | [Find Indices of Stable Mountains](https://leetcode.com/problems/find-indices-of-stable-mountains/) | c | [View Solution](./LeetCode/Easy/3285-find-indices-of-stable-mountains) |

@@ -1,5 +1,13 @@
 [
   {
+    "id": "2068732668",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1784126489000,
+    "title": "Number of Laser Beams in a Bank",
+    "titleSlug": "number-of-laser-beams-in-a-bank"
+  },
+  {
     "id": "2068287122",
     "lang": "c",
     "statusDisplay": "Accepted",
@@ -1489,5 +1497,13 @@
     "timestamp": 1762632585000,
     "title": "Palindrome Number",
     "titleSlug": "palindrome-number"
+  },
+  {
+    "id": "2068736074",
+    "title": "Number of Laser Beams in a Bank",
+    "titleSlug": "number-of-laser-beams-in-a-bank",
+    "timestamp": 1784126675000,
+    "lang": "c",
+    "statusDisplay": "Accepted"
   }
 ]

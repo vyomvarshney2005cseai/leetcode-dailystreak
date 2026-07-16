@@ -56,10 +56,26 @@
     "titleSlug": "number-of-laser-beams-in-a-bank"
   },
   {
+    "id": "2068738967",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1784126835000,
+    "title": "Number of Laser Beams in a Bank",
+    "titleSlug": "number-of-laser-beams-in-a-bank"
+  },
+  {
     "id": "2068736074",
     "lang": "c",
     "statusDisplay": "Accepted",
     "timestamp": 1784126675000,
+    "title": "Number of Laser Beams in a Bank",
+    "titleSlug": "number-of-laser-beams-in-a-bank"
+  },
+  {
+    "id": "2068735397",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1784126638000,
     "title": "Number of Laser Beams in a Bank",
     "titleSlug": "number-of-laser-beams-in-a-bank"
   },
@@ -1561,21 +1577,5 @@
     "timestamp": 1762632585000,
     "title": "Palindrome Number",
     "titleSlug": "palindrome-number"
-  },
-  {
-    "id": "2068738967",
-    "title": "Number of Laser Beams in a Bank",
-    "titleSlug": "number-of-laser-beams-in-a-bank",
-    "timestamp": 1784126835000,
-    "lang": "c",
-    "statusDisplay": "Accepted"
-  },
-  {
-    "id": "2068735397",
-    "title": "Number of Laser Beams in a Bank",
-    "titleSlug": "number-of-laser-beams-in-a-bank",
-    "timestamp": 1784126638000,
-    "lang": "c",
-    "statusDisplay": "Accepted"
   }
 ]

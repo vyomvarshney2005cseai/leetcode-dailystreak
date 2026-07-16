@@ -3,7 +3,7 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-113_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-114_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Codeforces-1_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 113 | [ `/LeetCode`](./LeetCode) |
+| **LeetCode** | 114 | [ `/LeetCode`](./LeetCode) |
 | **Codeforces** | 1 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **114** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **115** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -39,8 +39,8 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Difficulty | Solved | Progress Bar |
 | :--- | :---: | :--- |
-| **Easy** | 83 | `[███████░░░]` (74.1%) |
-| **Medium** | 27 | `[██░░░░░░░░]` (24.1%) |
+| **Easy** | 84 | `[███████░░░]` (74.3%) |
+| **Medium** | 27 | `[██░░░░░░░░]` (23.9%) |
 | **Hard** | 2 | `[░░░░░░░░░░]` (1.8%) |
 
 ## Top LeetCode Topics
@@ -48,7 +48,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Topic | Solved |
 | :--- | :--- |
 | Array | 65 |
-| Math | 34 |
+| Math | 35 |
 | String | 34 |
 | Hash Table | 30 |
 | Sorting | 15 |
@@ -125,6 +125,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Maximum Substrings With Distinct Start](https://leetcode.com/problems/maximum-substrings-with-distinct-start/) | c | [View Solution](./LeetCode/Medium/3760-maximum-substrings-with-distinct-start) |
 | LeetCode | [Maximum Total Subarray Value II](https://leetcode.com/problems/maximum-total-subarray-value-ii/) | c | [View Solution](./LeetCode/Hard/3691-maximum-total-subarray-value-ii) |
 | LeetCode | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | c | [View Solution](./LeetCode/Easy/88-merge-sorted-array) |
+| LeetCode | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | c | [View Solution](./LeetCode/Easy/1768-merge-strings-alternately) |
 | LeetCode | [Minimum Element After Replacement With Digit Sum](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/) | c | [View Solution](./LeetCode/Easy/3300-minimum-element-after-replacement-with-digit-sum) |
 | LeetCode | [Minimum Number Game](https://leetcode.com/problems/minimum-number-game/) | c | [View Solution](./LeetCode/Unknown/minimum-number-game) |
 | LeetCode | [Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/) | c | [View Solution](./LeetCode/Medium/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |

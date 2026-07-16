@@ -4,7 +4,7 @@
  * Submission: Try 2
  * status: Accepted
  * Language: c
- * Date: 7/15/2026, 8:14:35 PM
+ * Date: 7/15/2026, 8:13:58 PM
  * Link: https://leetcode.com/problems/number-of-laser-beams-in-a-bank/
  */
 

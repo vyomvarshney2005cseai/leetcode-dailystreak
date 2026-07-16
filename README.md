@@ -3,7 +3,7 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-112_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-113_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Codeforces-1_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 112 | [ `/LeetCode`](./LeetCode) |
+| **LeetCode** | 113 | [ `/LeetCode`](./LeetCode) |
 | **Codeforces** | 1 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **113** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **114** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -106,6 +106,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/) | c | [View Solution](./LeetCode/Easy/2942-find-words-containing-character) |
 | LeetCode | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | c | [View Solution](./LeetCode/Hard/41-first-missing-positive) |
 | LeetCode | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | c | [View Solution](./LeetCode/Easy/387-first-unique-character-in-a-string) |
+| LeetCode | [GCD of Odd and Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums/) | c | [View Solution](./LeetCode/Easy/3658-gcd-of-odd-and-even-sums) |
 | LeetCode | [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/) | python3 | [View Solution](./LeetCode/Easy/1678-goal-parser-interpretation) |
 | LeetCode | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | c | [View Solution](./LeetCode/Medium/49-group-anagrams) |
 | LeetCode | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | c | [View Solution](./LeetCode/Easy/1365-how-many-numbers-are-smaller-than-the-current-number) |

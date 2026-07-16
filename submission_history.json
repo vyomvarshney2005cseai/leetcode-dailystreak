@@ -1,5 +1,13 @@
 [
   {
+    "id": "2070230115",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1784223292000,
+    "title": "Merge Strings Alternately",
+    "titleSlug": "merge-strings-alternately"
+  },
+  {
     "id": "2069023818",
     "lang": "c",
     "statusDisplay": "Accepted",
@@ -1555,10 +1563,18 @@
     "titleSlug": "palindrome-number"
   },
   {
-    "id": "2070230115",
-    "title": "Merge Strings Alternately",
-    "titleSlug": "merge-strings-alternately",
-    "timestamp": 1784223292000,
+    "id": "2068738967",
+    "title": "Number of Laser Beams in a Bank",
+    "titleSlug": "number-of-laser-beams-in-a-bank",
+    "timestamp": 1784126835000,
+    "lang": "c",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2068735397",
+    "title": "Number of Laser Beams in a Bank",
+    "titleSlug": "number-of-laser-beams-in-a-bank",
+    "timestamp": 1784126638000,
     "lang": "c",
     "statusDisplay": "Accepted"
   }

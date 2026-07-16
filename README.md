@@ -39,8 +39,8 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Difficulty | Solved | Progress Bar |
 | :--- | :---: | :--- |
-| **Easy** | 84 | `[███████░░░]` (74.3%) |
-| **Medium** | 27 | `[██░░░░░░░░]` (23.9%) |
+| **Easy** | 85 | `[███████░░░]` (74.6%) |
+| **Medium** | 27 | `[██░░░░░░░░]` (23.7%) |
 | **Hard** | 2 | `[░░░░░░░░░░]` (1.8%) |
 
 ## Top LeetCode Topics
@@ -49,10 +49,10 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | :--- | :--- |
 | Array | 65 |
 | Math | 35 |
-| String | 34 |
+| String | 35 |
 | Hash Table | 30 |
 | Sorting | 15 |
-| Two Pointers | 12 |
+| Two Pointers | 13 |
 | Simulation | 10 |
 | Dynamic Programming | 5 |
 | Bit Manipulation | 5 |

@@ -3,7 +3,7 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-114_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-115_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Codeforces-1_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 114 | [ `/LeetCode`](./LeetCode) |
+| **LeetCode** | 115 | [ `/LeetCode`](./LeetCode) |
 | **Codeforces** | 1 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **115** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **116** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -39,21 +39,21 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Difficulty | Solved | Progress Bar |
 | :--- | :---: | :--- |
-| **Easy** | 85 | `[███████░░░]` (74.6%) |
-| **Medium** | 27 | `[██░░░░░░░░]` (23.7%) |
-| **Hard** | 2 | `[░░░░░░░░░░]` (1.8%) |
+| **Easy** | 85 | `[███████░░░]` (73.9%) |
+| **Medium** | 28 | `[██░░░░░░░░]` (24.3%) |
+| **Hard** | 2 | `[░░░░░░░░░░]` (1.7%) |
 
 ## Top LeetCode Topics
 
 | Topic | Solved |
 | :--- | :--- |
-| Array | 65 |
-| Math | 35 |
+| Array | 66 |
+| Math | 36 |
 | String | 35 |
 | Hash Table | 30 |
-| Sorting | 15 |
-| Two Pointers | 13 |
-| Simulation | 10 |
+| Sorting | 16 |
+| Two Pointers | 14 |
+| Simulation | 11 |
 | Dynamic Programming | 5 |
 | Bit Manipulation | 5 |
 | Divide and Conquer | 4 |
@@ -164,6 +164,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number/) | c | [View Solution](./LeetCode/Medium/2396-strictly-palindromic-number) |
 | LeetCode | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | c | [View Solution](./LeetCode/Easy/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | LeetCode | [Sum Multiples](https://leetcode.com/problems/sum-multiples/) | c | [View Solution](./LeetCode/Easy/2652-sum-multiples) |
+| LeetCode | [Sum of GCD of Formed Pairs](https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/) | c | [View Solution](./LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs) |
 | LeetCode | [The Two Sneaky Numbers of Digitville](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/) | c | [View Solution](./LeetCode/Easy/3289-the-two-sneaky-numbers-of-digitville) |
 | LeetCode | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | c | [View Solution](./LeetCode/Unknown/third-maximum-number) |
 | LeetCode | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | c | [View Solution](./LeetCode/Easy/709-to-lower-case) |

@@ -1577,5 +1577,13 @@
     "timestamp": 1762632585000,
     "title": "Palindrome Number",
     "titleSlug": "palindrome-number"
+  },
+  {
+    "id": "2070388176",
+    "title": "Sum of GCD of Formed Pairs",
+    "titleSlug": "sum-of-gcd-of-formed-pairs",
+    "timestamp": 1784233176000,
+    "lang": "c",
+    "statusDisplay": "Accepted"
   }
 ]

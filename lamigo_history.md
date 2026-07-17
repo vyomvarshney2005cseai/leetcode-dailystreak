@@ -4,6 +4,7 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-07-16 | Leetcode | Sum of GCD of Formed Pairs | c |
 | 2026-07-16 | Leetcode | Merge Strings Alternately | c |
 | 2026-07-15 | Leetcode | GCD of Odd and Even Sums | c |
 | 2026-07-15 | Leetcode | Excel Sheet Column Title | c |

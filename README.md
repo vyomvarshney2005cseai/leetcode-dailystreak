@@ -3,7 +3,7 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-115_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-116_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Codeforces-1_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 115 | [ `/LeetCode`](./LeetCode) |
+| **LeetCode** | 116 | [ `/LeetCode`](./LeetCode) |
 | **Codeforces** | 1 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **116** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **117** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -39,8 +39,8 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Difficulty | Solved | Progress Bar |
 | :--- | :---: | :--- |
-| **Easy** | 85 | `[███████░░░]` (73.9%) |
-| **Medium** | 28 | `[██░░░░░░░░]` (24.3%) |
+| **Easy** | 86 | `[███████░░░]` (74.1%) |
+| **Medium** | 28 | `[██░░░░░░░░]` (24.1%) |
 | **Hard** | 2 | `[░░░░░░░░░░]` (1.7%) |
 
 ## Top LeetCode Topics
@@ -49,10 +49,10 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | :--- | :--- |
 | Array | 66 |
 | Math | 36 |
-| String | 35 |
+| String | 36 |
 | Hash Table | 30 |
 | Sorting | 16 |
-| Two Pointers | 14 |
+| Two Pointers | 15 |
 | Simulation | 11 |
 | Dynamic Programming | 5 |
 | Bit Manipulation | 5 |
@@ -174,6 +174,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Type of Triangle](https://leetcode.com/problems/type-of-triangle/) | c | [View Solution](./LeetCode/Easy/3024-type-of-triangle) |
 | LeetCode | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | c | [View Solution](./LeetCode/Easy/242-valid-anagram) |
 | LeetCode | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | c | [View Solution](./LeetCode/Easy/125-valid-palindrome) |
+| LeetCode | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | c | [View Solution](./LeetCode/Easy/680-valid-palindrome-ii) |
 | LeetCode | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | c | [View Solution](./LeetCode/Easy/367-valid-perfect-square) |
 | LeetCode | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | c | [View Solution](./LeetCode/Medium/36-valid-sudoku) |
 | Codeforces | [Watermelon](https://codeforces.com/contest/4/problem/A) | GNU C11 | [View Solution](./Codeforces/4/A) |

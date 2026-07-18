@@ -1,5 +1,21 @@
 [
   {
+    "id": "2071214434",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1784298819000,
+    "title": "Minimum Number of Steps to Make Two Strings Anagram II",
+    "titleSlug": "minimum-number-of-steps-to-make-two-strings-anagram-ii"
+  },
+  {
+    "id": "2071157817",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1784295453000,
+    "title": "Valid Palindrome II",
+    "titleSlug": "valid-palindrome-ii"
+  },
+  {
     "id": "2070388176",
     "lang": "c",
     "statusDisplay": "Accepted",
@@ -1587,10 +1603,10 @@
     "titleSlug": "palindrome-number"
   },
   {
-    "id": "2071157817",
-    "title": "Valid Palindrome II",
-    "titleSlug": "valid-palindrome-ii",
-    "timestamp": 1784295453000,
+    "id": "2072134302",
+    "title": "Rotate Array",
+    "titleSlug": "rotate-array",
+    "timestamp": 1784373233000,
     "lang": "c",
     "statusDisplay": "Accepted"
   }

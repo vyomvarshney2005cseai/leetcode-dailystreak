@@ -3,7 +3,7 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-116_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-118_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Codeforces-1_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 116 | [ `/LeetCode`](./LeetCode) |
+| **LeetCode** | 118 | [ `/LeetCode`](./LeetCode) |
 | **Codeforces** | 1 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **117** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **119** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -39,8 +39,8 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Difficulty | Solved | Progress Bar |
 | :--- | :---: | :--- |
-| **Easy** | 86 | `[███████░░░]` (74.1%) |
-| **Medium** | 28 | `[██░░░░░░░░]` (24.1%) |
+| **Easy** | 87 | `[███████░░░]` (73.7%) |
+| **Medium** | 29 | `[██░░░░░░░░]` (24.6%) |
 | **Hard** | 2 | `[░░░░░░░░░░]` (1.7%) |
 
 ## Top LeetCode Topics
@@ -48,9 +48,9 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Topic | Solved |
 | :--- | :--- |
 | Array | 66 |
+| String | 38 |
 | Math | 36 |
-| String | 36 |
-| Hash Table | 30 |
+| Hash Table | 31 |
 | Sorting | 16 |
 | Two Pointers | 15 |
 | Simulation | 11 |
@@ -129,6 +129,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Minimum Element After Replacement With Digit Sum](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/) | c | [View Solution](./LeetCode/Easy/3300-minimum-element-after-replacement-with-digit-sum) |
 | LeetCode | [Minimum Number Game](https://leetcode.com/problems/minimum-number-game/) | c | [View Solution](./LeetCode/Unknown/minimum-number-game) |
 | LeetCode | [Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/) | c | [View Solution](./LeetCode/Medium/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| LeetCode | [Minimum Number of Steps to Make Two Strings Anagram II](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/) | c | [View Solution](./LeetCode/Medium/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | LeetCode | [Minimum Operations to Make Array Sum Divisible by K](https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/) | c | [View Solution](./LeetCode/Easy/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | LeetCode | [Mirror Distance of an Integer](https://leetcode.com/problems/mirror-distance-of-an-integer/) | c | [View Solution](./LeetCode/Easy/3783-mirror-distance-of-an-integer) |
 | LeetCode | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | c | [View Solution](./LeetCode/Easy/283-move-zeroes) |
@@ -153,6 +154,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix/) | c | [View Solution](./LeetCode/Unknown/reverse-string-prefix) |
 | LeetCode | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | c | [View Solution](./LeetCode/Unknown/richest-customer-wealth) |
 | LeetCode | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | c | [View Solution](./LeetCode/Easy/13-roman-to-integer) |
+| LeetCode | [Rotate Array](https://leetcode.com/problems/rotate-array/) | c | [View Solution](./LeetCode/Medium/189-rotate-array) |
 | LeetCode | [Rotate Function](https://leetcode.com/problems/rotate-function/) | c | [View Solution](./LeetCode/Medium/396-rotate-function) |
 | LeetCode | [Score of a String](https://leetcode.com/problems/score-of-a-string/) | c | [View Solution](./LeetCode/Easy/3110-score-of-a-string) |
 | LeetCode | [Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string/) | c | [View Solution](./LeetCode/Easy/1796-second-largest-digit-in-a-string) |

@@ -4,6 +4,8 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-07-18 | Leetcode | Rotate Array | c |
+| 2026-07-17 | Leetcode | Minimum Number of Steps to Make Two Strings Anagram II | c |
 | 2026-07-17 | Leetcode | Valid Palindrome II | c |
 | 2026-07-16 | Leetcode | Sum of GCD of Formed Pairs | c |
 | 2026-07-16 | Leetcode | Merge Strings Alternately | c |

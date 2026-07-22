@@ -3,7 +3,7 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-118_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-121_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Codeforces-1_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 118 | [ `/LeetCode`](./LeetCode) |
+| **LeetCode** | 121 | [ `/LeetCode`](./LeetCode) |
 | **Codeforces** | 1 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **119** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **122** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -90,6 +90,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Design HashSet](https://leetcode.com/problems/design-hashset/) | c | [View Solution](./LeetCode/Easy/705-design-hashset) |
 | LeetCode | [Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/) | c | [View Solution](./LeetCode/Unknown/difference-between-element-sum-and-digit-sum-of-an-array) |
 | LeetCode | [Digit Frequency Score](https://leetcode.com/problems/digit-frequency-score/) | c | [View Solution](./LeetCode/Easy/3945-digit-frequency-score) |
+| LeetCode | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | c | [View Solution](./LeetCode/Medium/29-divide-two-integers) |
 | LeetCode | [Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/) | c | [View Solution](./LeetCode/Easy/2894-divisible-and-non-divisible-sums-difference) |
 | LeetCode | [Elimination Game](https://leetcode.com/problems/elimination-game/) | c | [View Solution](./LeetCode/Unknown/elimination-game) |
 | LeetCode | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | c | [View Solution](./LeetCode/Easy/168-excel-sheet-column-title) |
@@ -100,6 +101,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Find Most Frequent Vowel and Consonant](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/) | c | [View Solution](./LeetCode/Easy/3541-find-most-frequent-vowel-and-consonant) |
 | LeetCode | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | c | [View Solution](./LeetCode/Medium/162-find-peak-element) |
 | LeetCode | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | c | [View Solution](./LeetCode/Easy/389-find-the-difference) |
+| LeetCode | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | c | [View Solution](./LeetCode/Unknown/find-the-index-of-the-first-occurrence-in-a-string) |
 | LeetCode | [Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/) | c | [View Solution](./LeetCode/Easy/2769-find-the-maximum-achievable-number) |
 | LeetCode | [Find The Original Array of Prefix Xor](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/) | c | [View Solution](./LeetCode/Medium/2433-find-the-original-array-of-prefix-xor) |
 | LeetCode | [Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/) | c | [View Solution](./LeetCode/Medium/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -164,6 +166,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | c | [View Solution](./LeetCode/Medium/912-sort-an-array) |
 | LeetCode | [Sort Colors](https://leetcode.com/problems/sort-colors/) | c | [View Solution](./LeetCode/Medium/75-sort-colors) |
 | LeetCode | [Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number/) | c | [View Solution](./LeetCode/Medium/2396-strictly-palindromic-number) |
+| LeetCode | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | c | [View Solution](./LeetCode/Unknown/subarray-sum-equals-k) |
 | LeetCode | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | c | [View Solution](./LeetCode/Easy/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | LeetCode | [Sum Multiples](https://leetcode.com/problems/sum-multiples/) | c | [View Solution](./LeetCode/Easy/2652-sum-multiples) |
 | LeetCode | [Sum of GCD of Formed Pairs](https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/) | c | [View Solution](./LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs) |

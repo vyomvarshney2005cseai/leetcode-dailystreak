@@ -1,5 +1,13 @@
 [
   {
+    "id": "2072134302",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1784373233000,
+    "title": "Rotate Array",
+    "titleSlug": "rotate-array"
+  },
+  {
     "id": "2071214434",
     "lang": "c",
     "statusDisplay": "Accepted",
@@ -1603,10 +1611,34 @@
     "titleSlug": "palindrome-number"
   },
   {
-    "id": "2072134302",
-    "title": "Rotate Array",
-    "titleSlug": "rotate-array",
-    "timestamp": 1784373233000,
+    "id": "2075843796",
+    "title": "Find the Index of the First Occurrence in a String",
+    "titleSlug": "find-the-index-of-the-first-occurrence-in-a-string",
+    "timestamp": 1784639729000,
+    "lang": "c",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2074764982",
+    "title": "Subarray Sum Equals K",
+    "titleSlug": "subarray-sum-equals-k",
+    "timestamp": 1784562521000,
+    "lang": "c",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2073576849",
+    "title": "Divide Two Integers",
+    "titleSlug": "divide-two-integers",
+    "timestamp": 1784472294000,
+    "lang": "c",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2073576633",
+    "title": "Divide Two Integers",
+    "titleSlug": "divide-two-integers",
+    "timestamp": 1784472280000,
     "lang": "c",
     "statusDisplay": "Accepted"
   }

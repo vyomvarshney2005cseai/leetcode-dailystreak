@@ -8,7 +8,10 @@ A complete history of all accepted submissions synced by L'Amigo.
 | 2026-07-20 | Leetcode | Subarray Sum Equals K | c |
 | 2026-07-19 | Leetcode | Divide Two Integers | c |
 | 2026-07-19 | Leetcode | Divide Two Integers | c |
+| 2026-07-18 | Leetcode | Find Greatest Common Divisor of Array | c |
 | 2026-07-18 | Leetcode | Rotate Array | c |
+| 2026-07-17 | Leetcode | Length of Last Word | c |
+| 2026-07-17 | Leetcode | Minimum Number of Steps to Make Two Strings Anagram II | c |
 | 2026-07-17 | Leetcode | Minimum Number of Steps to Make Two Strings Anagram II | c |
 | 2026-07-17 | Leetcode | Valid Palindrome II | c |
 | 2026-07-16 | Leetcode | Sum of GCD of Formed Pairs | c |

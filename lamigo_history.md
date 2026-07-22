@@ -4,6 +4,10 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-07-21 | Leetcode | Find the Index of the First Occurrence in a String | c |
+| 2026-07-20 | Leetcode | Subarray Sum Equals K | c |
+| 2026-07-19 | Leetcode | Divide Two Integers | c |
+| 2026-07-19 | Leetcode | Divide Two Integers | c |
 | 2026-07-18 | Leetcode | Rotate Array | c |
 | 2026-07-17 | Leetcode | Minimum Number of Steps to Make Two Strings Anagram II | c |
 | 2026-07-17 | Leetcode | Valid Palindrome II | c |

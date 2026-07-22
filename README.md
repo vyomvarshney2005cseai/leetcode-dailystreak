@@ -96,7 +96,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | c | [View Solution](./LeetCode/Easy/168-excel-sheet-column-title) |
 | LeetCode | [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/) | c | [View Solution](./LeetCode/Easy/2011-final-value-of-variable-after-performing-operations) |
 | LeetCode | [Find Closest Person](https://leetcode.com/problems/find-closest-person/) | c | [View Solution](./LeetCode/Easy/3516-find-closest-person) |
-| LeetCode | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) | c | [View Solution](./LeetCode/Unknown/find-greatest-common-divisor-of-array) |
+| LeetCode | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) | c | [View Solution](./LeetCode/Easy/1979-find-greatest-common-divisor-of-array) |
 | LeetCode | [Find Indices of Stable Mountains](https://leetcode.com/problems/find-indices-of-stable-mountains/) | c | [View Solution](./LeetCode/Easy/3285-find-indices-of-stable-mountains) |
 | LeetCode | [Find Minimum Operations to Make All Elements Divisible by Three](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/) | c | [View Solution](./LeetCode/Unknown/find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | LeetCode | [Find Most Frequent Vowel and Consonant](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/) | c | [View Solution](./LeetCode/Easy/3541-find-most-frequent-vowel-and-consonant) |

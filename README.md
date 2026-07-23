@@ -3,7 +3,7 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-123_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-124_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Codeforces-1_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 123 | [ `/LeetCode`](./LeetCode) |
+| **LeetCode** | 124 | [ `/LeetCode`](./LeetCode) |
 | **Codeforces** | 1 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **124** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **125** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -39,23 +39,23 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Difficulty | Solved | Progress Bar |
 | :--- | :---: | :--- |
-| **Easy** | 87 | `[███████░░░]` (73.7%) |
-| **Medium** | 29 | `[██░░░░░░░░]` (24.6%) |
-| **Hard** | 2 | `[░░░░░░░░░░]` (1.7%) |
+| **Easy** | 89 | `[███████░░░]` (72.4%) |
+| **Medium** | 32 | `[███░░░░░░░]` (26.0%) |
+| **Hard** | 2 | `[░░░░░░░░░░]` (1.6%) |
 
 ## Top LeetCode Topics
 
 | Topic | Solved |
 | :--- | :--- |
-| Array | 66 |
-| String | 38 |
-| Math | 36 |
-| Hash Table | 31 |
+| Array | 69 |
+| Math | 39 |
+| String | 39 |
+| Hash Table | 32 |
+| Two Pointers | 17 |
 | Sorting | 16 |
-| Two Pointers | 15 |
 | Simulation | 11 |
+| Bit Manipulation | 6 |
 | Dynamic Programming | 5 |
-| Bit Manipulation | 5 |
 | Divide and Conquer | 4 |
 
 
@@ -123,6 +123,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | c | [View Solution](./LeetCode/Medium/128-longest-consecutive-sequence) |
 | LeetCode | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | c | [View Solution](./LeetCode/Medium/3-longest-substring-without-repeating-characters) |
 | LeetCode | [Majority Element](https://leetcode.com/problems/majority-element/) | c | [View Solution](./LeetCode/Unknown/majority-element) |
+| LeetCode | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | c | [View Solution](./LeetCode/Medium/229-majority-element-ii) |
 | LeetCode | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | c | [View Solution](./LeetCode/Easy/485-max-consecutive-ones) |
 | LeetCode | [Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/) | c | [View Solution](./LeetCode/Unknown/maximum-number-of-words-found-in-sentences) |
 | LeetCode | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | c | [View Solution](./LeetCode/Medium/53-maximum-subarray) |

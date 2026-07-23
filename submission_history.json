@@ -1665,5 +1665,13 @@
     "timestamp": 1762632585000,
     "title": "Palindrome Number",
     "titleSlug": "palindrome-number"
+  },
+  {
+    "id": "2077472933",
+    "title": "Majority Element II",
+    "titleSlug": "majority-element-ii",
+    "timestamp": 1784741538000,
+    "lang": "c",
+    "statusDisplay": "Accepted"
   }
 ]

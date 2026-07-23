@@ -4,6 +4,7 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-07-22 | Leetcode | Majority Element II | c |
 | 2026-07-21 | Leetcode | Find the Index of the First Occurrence in a String | c |
 | 2026-07-20 | Leetcode | Subarray Sum Equals K | c |
 | 2026-07-19 | Leetcode | Divide Two Integers | c |

@@ -1,5 +1,13 @@
 [
   {
+    "id": "2078059173",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1784791023000,
+    "title": "Single Number",
+    "titleSlug": "single-number"
+  },
+  {
     "id": "2077472933",
     "lang": "c",
     "statusDisplay": "Accepted",
@@ -1675,10 +1683,18 @@
     "titleSlug": "palindrome-number"
   },
   {
-    "id": "2078059173",
-    "title": "Single Number",
-    "titleSlug": "single-number",
-    "timestamp": 1784791023000,
+    "id": "2080961943",
+    "title": "Remove Duplicates from Sorted Array II",
+    "titleSlug": "remove-duplicates-from-sorted-array-ii",
+    "timestamp": 1784996350000,
+    "lang": "c",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2079804911",
+    "title": "Maximum Product Subarray",
+    "titleSlug": "maximum-product-subarray",
+    "timestamp": 1784910114000,
     "lang": "c",
     "statusDisplay": "Accepted"
   }

@@ -4,6 +4,7 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-07-26 | Leetcode | Maximum Product of Three Numbers | c |
 | 2026-07-25 | Leetcode | Remove Duplicates from Sorted Array II | c |
 | 2026-07-24 | Leetcode | Maximum Product Subarray | c |
 | 2026-07-23 | Leetcode | Single Number | c |

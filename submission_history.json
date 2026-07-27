@@ -1,5 +1,13 @@
 [
   {
+    "id": "2082430320",
+    "lang": "c",
+    "statusDisplay": "Accepted",
+    "timestamp": 1785089189000,
+    "title": "Maximum Product of Three Numbers",
+    "titleSlug": "maximum-product-of-three-numbers"
+  },
+  {
     "id": "2080961943",
     "lang": "c",
     "statusDisplay": "Accepted",
@@ -1699,10 +1707,26 @@
     "titleSlug": "palindrome-number"
   },
   {
-    "id": "2082430320",
-    "title": "Maximum Product of Three Numbers",
-    "titleSlug": "maximum-product-of-three-numbers",
-    "timestamp": 1785089189000,
+    "id": "2082691184",
+    "title": "Remove Duplicates from Sorted Array II",
+    "titleSlug": "remove-duplicates-from-sorted-array-ii",
+    "timestamp": 1785119803000,
+    "lang": "c",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2082691124",
+    "title": "Remove Duplicates from Sorted Array II",
+    "titleSlug": "remove-duplicates-from-sorted-array-ii",
+    "timestamp": 1785119796000,
+    "lang": "c",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2082690557",
+    "title": "Remove Duplicates from Sorted Array II",
+    "titleSlug": "remove-duplicates-from-sorted-array-ii",
+    "timestamp": 1785119735000,
     "lang": "c",
     "statusDisplay": "Accepted"
   }

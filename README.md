@@ -39,20 +39,20 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Difficulty | Solved | Progress Bar |
 | :--- | :---: | :--- |
-| **Easy** | 90 | `[███████░░░]` (70.9%) |
-| **Medium** | 35 | `[███░░░░░░░]` (27.6%) |
+| **Easy** | 91 | `[███████░░░]` (71.1%) |
+| **Medium** | 35 | `[███░░░░░░░]` (27.3%) |
 | **Hard** | 2 | `[░░░░░░░░░░]` (1.6%) |
 
 ## Top LeetCode Topics
 
 | Topic | Solved |
 | :--- | :--- |
-| Array | 73 |
-| Math | 39 |
+| Array | 74 |
+| Math | 40 |
 | String | 39 |
 | Hash Table | 33 |
+| Sorting | 18 |
 | Two Pointers | 18 |
-| Sorting | 17 |
 | Simulation | 11 |
 | Bit Manipulation | 7 |
 | Dynamic Programming | 6 |
@@ -153,7 +153,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Permutation Difference between Two Strings](https://leetcode.com/problems/permutation-difference-between-two-strings/) | c | [View Solution](./LeetCode/Easy/3146-permutation-difference-between-two-strings) |
 | LeetCode | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | c | [View Solution](./LeetCode/Medium/238-product-of-array-except-self) |
 | LeetCode | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | c | [View Solution](./LeetCode/Easy/26-remove-duplicates-from-sorted-array) |
-| LeetCode | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | c | [View Solution](./LeetCode/Unknown/remove-duplicates-from-sorted-array-ii) |
+| LeetCode | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | c | [View Solution](./LeetCode/Medium/80-remove-duplicates-from-sorted-array-ii) |
 | LeetCode | [Remove Element](https://leetcode.com/problems/remove-element/) | c | [View Solution](./LeetCode/Easy/27-remove-element) |
 | LeetCode | [Restore Finishing Order](https://leetcode.com/problems/restore-finishing-order/) | c | [View Solution](./LeetCode/Easy/3668-restore-finishing-order) |
 | LeetCode | [Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string/) | c | [View Solution](./LeetCode/Unknown/reverse-degree-of-a-string) |

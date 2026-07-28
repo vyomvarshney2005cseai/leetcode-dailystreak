@@ -3,7 +3,7 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-128_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-129_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Codeforces-1_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 128 | [ `/LeetCode`](./LeetCode) |
+| **LeetCode** | 129 | [ `/LeetCode`](./LeetCode) |
 | **Codeforces** | 1 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **129** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **130** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -127,6 +127,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | c | [View Solution](./LeetCode/Easy/485-max-consecutive-ones) |
 | LeetCode | [Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/) | c | [View Solution](./LeetCode/Unknown/maximum-number-of-words-found-in-sentences) |
 | LeetCode | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | c | [View Solution](./LeetCode/Easy/628-maximum-product-of-three-numbers) |
+| LeetCode | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | python3 | [View Solution](./LeetCode/Easy/1464-maximum-product-of-two-elements-in-an-array) |
 | LeetCode | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | c | [View Solution](./LeetCode/Medium/152-maximum-product-subarray) |
 | LeetCode | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | c | [View Solution](./LeetCode/Medium/53-maximum-subarray) |
 | LeetCode | [Maximum Substrings With Distinct Start](https://leetcode.com/problems/maximum-substrings-with-distinct-start/) | c | [View Solution](./LeetCode/Medium/3760-maximum-substrings-with-distinct-start) |

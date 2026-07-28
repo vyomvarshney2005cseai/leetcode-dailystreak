@@ -4,6 +4,7 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-07-27 | Leetcode | Maximum Product of Two Elements in an Array | python3 |
 | 2026-07-27 | Leetcode | Remove Duplicates from Sorted Array II | c |
 | 2026-07-27 | Leetcode | Remove Duplicates from Sorted Array II | c |
 | 2026-07-27 | Leetcode | Remove Duplicates from Sorted Array II | c |

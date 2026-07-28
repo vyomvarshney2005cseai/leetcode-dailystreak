@@ -1,5 +1,13 @@
 [
   {
+    "id": "2083787877",
+    "lang": "python3",
+    "statusDisplay": "Accepted",
+    "timestamp": 1785175262000,
+    "title": "Maximum Product of Two Elements in an Array",
+    "titleSlug": "maximum-product-of-two-elements-in-an-array"
+  },
+  {
     "id": "2082691184",
     "lang": "c",
     "statusDisplay": "Accepted",
@@ -1731,11 +1739,11 @@
     "titleSlug": "palindrome-number"
   },
   {
-    "id": "2083787877",
+    "id": "2084578243",
     "title": "Maximum Product of Two Elements in an Array",
     "titleSlug": "maximum-product-of-two-elements-in-an-array",
-    "timestamp": 1785175262000,
-    "lang": "python3",
+    "timestamp": 1785232856000,
+    "lang": "c",
     "statusDisplay": "Accepted"
   }
 ]

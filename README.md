@@ -39,19 +39,19 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Difficulty | Solved | Progress Bar |
 | :--- | :---: | :--- |
-| **Easy** | 91 | `[███████░░░]` (71.1%) |
-| **Medium** | 35 | `[███░░░░░░░]` (27.3%) |
+| **Easy** | 92 | `[███████░░░]` (71.3%) |
+| **Medium** | 35 | `[███░░░░░░░]` (27.1%) |
 | **Hard** | 2 | `[░░░░░░░░░░]` (1.6%) |
 
 ## Top LeetCode Topics
 
 | Topic | Solved |
 | :--- | :--- |
-| Array | 74 |
+| Array | 75 |
 | Math | 40 |
 | String | 39 |
 | Hash Table | 33 |
-| Sorting | 18 |
+| Sorting | 19 |
 | Two Pointers | 18 |
 | Simulation | 11 |
 | Bit Manipulation | 7 |
@@ -127,7 +127,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | c | [View Solution](./LeetCode/Easy/485-max-consecutive-ones) |
 | LeetCode | [Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/) | c | [View Solution](./LeetCode/Unknown/maximum-number-of-words-found-in-sentences) |
 | LeetCode | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | c | [View Solution](./LeetCode/Easy/628-maximum-product-of-three-numbers) |
-| LeetCode | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | python3 | [View Solution](./LeetCode/Easy/1464-maximum-product-of-two-elements-in-an-array) |
+| LeetCode | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | c | [View Solution](./LeetCode/Easy/1464-maximum-product-of-two-elements-in-an-array) |
 | LeetCode | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | c | [View Solution](./LeetCode/Medium/152-maximum-product-subarray) |
 | LeetCode | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | c | [View Solution](./LeetCode/Medium/53-maximum-subarray) |
 | LeetCode | [Maximum Substrings With Distinct Start](https://leetcode.com/problems/maximum-substrings-with-distinct-start/) | c | [View Solution](./LeetCode/Medium/3760-maximum-substrings-with-distinct-start) |

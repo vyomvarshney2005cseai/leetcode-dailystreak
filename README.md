@@ -3,7 +3,7 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-129_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-131_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Codeforces-1_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 129 | [ `/LeetCode`](./LeetCode) |
+| **LeetCode** | 131 | [ `/LeetCode`](./LeetCode) |
 | **Codeforces** | 1 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **130** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **132** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -171,6 +171,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | c | [View Solution](./LeetCode/Easy/1470-shuffle-the-array) |
 | LeetCode | [Single Number](https://leetcode.com/problems/single-number/) | c | [View Solution](./LeetCode/Easy/136-single-number) |
 | LeetCode | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/) | c | [View Solution](./LeetCode/Unknown/smallest-even-multiple) |
+| LeetCode | [Smallest Palindromic Rearrangement I](https://leetcode.com/problems/smallest-palindromic-rearrangement-i/) | c | [View Solution](./LeetCode/Medium/3517-smallest-palindromic-rearrangement-i) |
 | LeetCode | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | c | [View Solution](./LeetCode/Medium/912-sort-an-array) |
 | LeetCode | [Sort Colors](https://leetcode.com/problems/sort-colors/) | c | [View Solution](./LeetCode/Medium/75-sort-colors) |
 | LeetCode | [Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number/) | c | [View Solution](./LeetCode/Medium/2396-strictly-palindromic-number) |
@@ -188,6 +189,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | c | [View Solution](./LeetCode/Easy/242-valid-anagram) |
 | LeetCode | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | c | [View Solution](./LeetCode/Easy/125-valid-palindrome) |
 | LeetCode | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | c | [View Solution](./LeetCode/Easy/680-valid-palindrome-ii) |
+| LeetCode | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | python3 | [View Solution](./LeetCode/Easy/20-valid-parentheses) |
 | LeetCode | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | c | [View Solution](./LeetCode/Easy/367-valid-perfect-square) |
 | LeetCode | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | c | [View Solution](./LeetCode/Medium/36-valid-sudoku) |
 | Codeforces | [Watermelon](https://codeforces.com/contest/4/problem/A) | GNU C11 | [View Solution](./Codeforces/4/A) |

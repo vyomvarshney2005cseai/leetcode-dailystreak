@@ -3,7 +3,7 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-131_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-132_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Codeforces-1_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 131 | [ `/LeetCode`](./LeetCode) |
+| **LeetCode** | 132 | [ `/LeetCode`](./LeetCode) |
 | **Codeforces** | 1 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **132** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **133** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -175,6 +175,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | c | [View Solution](./LeetCode/Medium/912-sort-an-array) |
 | LeetCode | [Sort Colors](https://leetcode.com/problems/sort-colors/) | c | [View Solution](./LeetCode/Medium/75-sort-colors) |
 | LeetCode | [Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number/) | c | [View Solution](./LeetCode/Medium/2396-strictly-palindromic-number) |
+| LeetCode | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | c | [View Solution](./LeetCode/Medium/8-string-to-integer-atoi) |
 | LeetCode | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | c | [View Solution](./LeetCode/Unknown/subarray-sum-equals-k) |
 | LeetCode | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | c | [View Solution](./LeetCode/Easy/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | LeetCode | [Sum Multiples](https://leetcode.com/problems/sum-multiples/) | c | [View Solution](./LeetCode/Easy/2652-sum-multiples) |

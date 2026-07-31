@@ -4,6 +4,7 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-07-30 | Leetcode | String to Integer (atoi) | c |
 | 2026-07-29 | Leetcode | Valid Parentheses | python3 |
 | 2026-07-28 | Leetcode | Smallest Palindromic Rearrangement I | c |
 | 2026-07-28 | Leetcode | Maximum Product of Two Elements in an Array | c |
